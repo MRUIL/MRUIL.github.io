@@ -1,2 +1,2 @@
 # yangliu.github.io
-# yang
+theme:minima
