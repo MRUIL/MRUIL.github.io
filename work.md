@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Publications
+title: Work
 slug: /work
 items:
   - title: Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation
