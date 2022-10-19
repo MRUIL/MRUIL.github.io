@@ -5,7 +5,7 @@ slug: /work
 items:
   - title: Super Boundary-to-Pixel Direction for Fast Image Segmentation
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/SuperBPD.png
       alt: water
     description: Image segmentation is a fundamental vision task and a crucial step for many applications. In this paper, we propose a fast image segmentation method based on a novel super boundary-to-pixel direction (super-BPD) and a customized segmentation algorithm with super-BPD. Precisely, we define BPD on each pixel as a two-dimensional unit vector pointing from its nearest boundary to the pixel. In the BPD, nearby pixels from different regions have opposite directions departing from each other, and adjacent pixels in the same region have directions pointing to the other or each other (i.e., around medial points). We make use of such property to partition an image into super-BPDs, which are novel informative superpixels with robust direction similarity for fast grouping into segmentation regions. Extensive experimental results on BSDS500 and Pascal Context demonstrate the accuracy and efficency of the proposed super-BPD in segmenting images. In practice, the proposed super-BPD achieves comparable or superior performance with MCG while running at ~25fps vs. 0.07fps. Super-BPD also exhibits a noteworthy transferability to unseen scenes.
   - title: Watermark-Decomposition Network for Visible Watermark Removal
