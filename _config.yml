@@ -37,7 +37,7 @@ footer:
     - name: GitHub
       #link: http://github.com/YourGitHubUsername
     - name: GoogleScholar
-      #link:
+      link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=Fgh4hTUAAAAJ&authuser=1
 
 # Build settings
 markdown: kramdown
