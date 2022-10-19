@@ -13,15 +13,17 @@
 
           {% for item in page.items %}
           <div class="work-item">
+            <span class="work-text">
+              <strong>{{ item.title }}</strong>
+            </span>
+            
             <img
               src="{{ item.image.src | absolute_url }}"
               alt="{{ item.image.alt }}"
               class="work-bubble"
             />
+            
             <span class="work-text">
-              <strong>{{ item.title }}</strong>
-              &mdash;
-              <br />
               {{ item.description }}
             </span>
           </div>
