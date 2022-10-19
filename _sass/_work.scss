@@ -1,6 +1,12 @@
-.work-item {
+.work-title {
   align-items: center;
   justify-content: center;
+  clear: both;
+  overflow: hidden;
+  padding-bottom: 3em;
+}
+
+.work-description {
   clear: both;
   overflow: hidden;
   padding-bottom: 3em;
