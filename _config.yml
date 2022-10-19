@@ -5,7 +5,7 @@ title: Yang Liu
 description: >- # this means to ignore newlines until "baseurl:"
   Yang is a first-year PhD student.
 baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+url: "https://mruil.github.io"# the base hostname & protocol for the site "https://eliottvincent.github.io"
 og_image: /assets/img/self_profile_after.jpg
 google_analytics: "UA-121636368-3"
 
