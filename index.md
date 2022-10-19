@@ -8,4 +8,3 @@ profile_picture:
 <p>
   Welcome to the wibesite of Yang Liu! Yang is a first-year PhD student in King's Colledge London.
 </p>
-
