@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/self_profile_after.jpg
+  src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
   - title: 2022.09
