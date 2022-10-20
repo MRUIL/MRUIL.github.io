@@ -10,6 +10,24 @@
         {{ content }}
       </div>
     </div>
+    
+    {% for item in page.items %}
+          <div class="work-item">
+            <span class="work-title">
+              <strong>{{ item.title }}</strong>
+            </span>
+            
+            <img
+              src="{{ item.image.src | absolute_url }}"
+              alt="{{ item.image.alt }}"
+              class="work-bubble"
+            />
+            
+            <span class="work-description">
+              {{ item.description }}
+            </span>
+          </div>
+          {% endfor %}
 
     {% include footer.html %}
     
