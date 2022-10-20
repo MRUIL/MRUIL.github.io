@@ -3,6 +3,11 @@ layout: home
 profile_picture:
   src: /assets/img/self_profile_after.jpg
   alt: website picture
+items:
+  - title: 2022.09
+    description: We win the Champion of ...
+  - title: 2021.10
+    description: Start the life of PhD researches in KCL
 ---
 
 <p>
