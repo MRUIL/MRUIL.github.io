@@ -5,9 +5,17 @@ profile_picture:
   alt: website picture
 news-items:
   - title: 2022.09
-    description: We win the Champion of ...
+    description: Our team CTRL won the 1st place on MICCCAI 2022 ATLAS Ischemic Stroke Lesion Segmentation Challenge (our solution will be released soon).
   - title: 2021.10
-    description: Start the life of PhD researches in KCL
+    description: Arrived at London and began the Ph.D student life at KCL.
+  - title: 2021.06
+    description: Completed the thesis defense and received a master's degree.
+  - title: 2021.04
+    description: Internship started at Education department of ByteDance, working as a computer vision algorithm engineer.
+  - title: 2020.11
+    descrition: One paper is accepted by WACV 2021.
+  - title: 2020.02
+    descrition: One paper is accepted by CVPR 2020.
 ---
 
 <p>
