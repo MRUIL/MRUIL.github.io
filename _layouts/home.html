@@ -15,6 +15,18 @@
           />
 
           {{ content }}
+          
+          <h1 class="news-heading"> News </h1>
+          
+          {% for item in page.news-items %}
+          <div class="news-item">
+            <span class="news-description">
+              &middot; <strong> {{item.title}} <\strong>
+              &mdash;
+              {{ item.description }}
+            </span>
+          </div>
+          {% endfor %}
         </div>
       </div>
     </div>
