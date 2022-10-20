@@ -9,7 +9,8 @@
       <div class="wrapper">
         {{ content }}
         
-        {% for item in page.items %}
+        <h1 class="news-heading"> News </h1>
+        {% for item in page.news-items %}
         <div class="news-item">       
           <span class="news-description">
             {{ item.description }}
