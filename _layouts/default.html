@@ -8,13 +8,14 @@
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
-         {% for item in page.items %}
-         <div class="news-item">       
-           <span class="news-description">
-             {{ item.description }}
-           </span>
-         </div>
-         {% endfor %}
+        
+        {% for item in page.items %}
+        <div class="news-item">       
+          <span class="news-description">
+            {{ item.description }}
+          </span>
+        </div>
+        {% endfor %}
       </div>
     </div>
     
