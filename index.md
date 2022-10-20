@@ -13,9 +13,9 @@ news-items:
   - title: 2021.04
     description: Internship started at Education department of ByteDance, working as a computer vision algorithm engineer.
   - title: 2020.11
-    descrition: One paper is accepted by WACV 2021.
+    description: One paper is accepted by WACV 2021.
   - title: 2020.02
-    descrition: One paper is accepted by CVPR 2020.
+    description: One paper is accepted by CVPR 2020.
 ---
 
 <p>
