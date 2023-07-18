@@ -4,6 +4,10 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title: 2023.07
+    description: "One paper is accepted by ICCV 2023. (SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition. Yang Liu, Jiayu Huo, Jingjing Peng, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin)"
+  - title: 2023.05
+    description: "One paper is released to Arxiv (under review). (LoViT: Long Video Transformer for Surgical Phase Recognition. Yang Liu, Maxence Boels, Luis C. Garcia-Peraza-Herrera, Tom Vercauteren, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin) Arxiv - https://arxiv.org/pdf/2305.08989.pdf"
   - title: 2022.09
     description: "Our team CTRL won the 1st place on MICCCAI 2022 ATLAS Ischemic Stroke Lesion Segmentation Challenge (our solution: Arxiv - https://arxiv.org/pdf/2211.15486.pdf)."
   - title: "2021.10"
