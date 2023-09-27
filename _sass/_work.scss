@@ -7,15 +7,14 @@
 }
 
 .work-item {
-  clear: both;
-  overflow: hidden;
-  padding-bottom: 3em;
+  display: flex;
+  align-items: flex-start; /* 让子元素在垂直方向上顶部对齐 */
 }
 
 .work-description {
-  clear: both;
-  overflow: hidden;
-  padding-bottom: 3em;
+  flex-grow: 1; /* 让description尽可能占据剩余的空间 */
+  margin-left: 10px; /* 可选，增加左边距以控制image和description之间的间距 */
+  word-break: break-word; /* 可选，允许单词在需要时自动换行 */
 }
 
 .work-bubble {
