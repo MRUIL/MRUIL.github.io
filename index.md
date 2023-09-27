@@ -6,6 +6,7 @@ profile_picture:
 news-items:
   - title: 2023.07
     description: "One paper is accepted by ICCV 2023. (SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition. Yang Liu, Jiayu Huo, Jingjing Peng, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin)"
+    link: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_SKiT_a_Fast_Key_Information_Video_Transformer_for_Online_Surgical_ICCV_2023_paper.html
   - title: 2023.05
     description: "One paper is released to Arxiv (under review). (LoViT: Long Video Transformer for Surgical Phase Recognition. Yang Liu, Maxence Boels, Luis C. Garcia-Peraza-Herrera, Tom Vercauteren, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin) "
     link: "https://arxiv.org/pdf/2305.08989.pdf"
