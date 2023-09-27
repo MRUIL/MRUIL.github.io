@@ -27,4 +27,5 @@
 .work-description {
   display: block; /* 让描述显示为块级元素，以独占一行 */
   margin-top: 10px; /* 可选，增加图和描述之间的垂直间距 */
+  word-break: break-word;
 }
