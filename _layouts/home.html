@@ -20,9 +20,13 @@
           {% for item in page.news-items %}
           <div class="news-item">
             <span class="news-description">
-              &middot; <strong> {{item.title}} </strong>
+              &middot; <strong>{{ item.title }}</strong>
               &mdash;
-              {{ item.description }}
+              {% if item.link %}
+                <a href="{{ item.link }}">Link</a> {{ item.description }}
+              {% else %}
+                {{ item.description }}
+              {% endif %}
             </span>
           </div>
           {% endfor %}
