@@ -1,11 +1,5 @@
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="work">
-          <h1 class="page-heading">{{ page.title }}</h1>
-          {{ content }}
-
-          {% for item in page.items %}
+<h1 class="work-heading"> Publications </h1>
+          {% for item in page.work-items %}
           <div class="work-item">
             <span class="work-title">
               <strong>{{ item.title }}</strong>
@@ -15,11 +9,8 @@
               alt="{{ item.image.alt }}"
               class="work-bubble"
             />
-            <span class="work-description">
+            <span class="work-description description-toggle">
               {{ item.description }}
             </span>
           </div>
           {% endfor %}
-        </div>
-      </div>
-    </div>
