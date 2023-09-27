@@ -23,7 +23,7 @@
               &middot; <strong>{{ item.title }}</strong>
               &mdash;
               {% if item.link %}
-                <a href="{{ item.link }}">Link</a> {{ item.description }}
+                {{ item.description }} <a href="{{ item.link }}">Link</a> 
               {% else %}
                 {{ item.description }}
               {% endif %}
