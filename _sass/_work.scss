@@ -7,18 +7,21 @@
 }
 
 .work-item {
-  display: flex;
-}
-
-.work-description {
-  margin-left: 10px; /* 可选，增加左边距以控制image和description之间的间距 */
-  word-break: break-word; /* 可选，允许单词在需要时自动换行 */
+  text-align: center; /* 让所有内容在容器中水平居中 */
+  margin-bottom: 20px; /* 可选，增加图和描述之间的垂直间距 */
 }
 
 .work-bubble {
-  margin: 0;
-  text-align: center;
-  padding-right: 20px;
-  width: 500px;
-  height: auto;
+  max-width: 100%; /* 图片最大宽度不超过容器宽度 */
+}
+
+.work-title {
+  display: block; /* 让标题显示为块级元素，以独占一行 */
+  font-weight: bold; /* 可选，加粗标题文字 */
+  margin-top: 10px; /* 可选，增加标题和图之间的垂直间距 */
+}
+
+.work-description {
+  display: block; /* 让描述显示为块级元素，以独占一行 */
+  margin-top: 10px; /* 可选，增加图和描述之间的垂直间距 */
 }
