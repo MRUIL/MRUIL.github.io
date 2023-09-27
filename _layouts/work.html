@@ -24,7 +24,7 @@
             />
             
             <span class="work-description">
-              {{ item.description }}
+              {{ item.description | replace: "<br>", "<br>" | safe }}
             </span>
           </div>
           {% endfor %}
