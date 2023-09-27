@@ -22,9 +22,8 @@
               alt="{{ item.image.alt }}"
               class="work-bubble"
             />
-            
             <span class="work-description">
-              {{ item.description | replace: "<br>", "<br>" | safe }}
+              {{ item.description }}
             </span>
           </div>
           {% endfor %}
