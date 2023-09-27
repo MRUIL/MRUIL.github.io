@@ -5,14 +5,17 @@
   overflow: hidden;
   padding-bottom: 3em;
 }
-
 .work-item {
-  text-align: center; /* 让所有内容在容器中水平居中 */
-  margin-bottom: 20px; /* 可选，增加图和描述之间的垂直间距 */
+  clear: both;
+  overflow: hidden;
+  padding-bottom: 3em;
 }
 
 .work-bubble {
-  max-width: 100%; /* 图片最大宽度不超过容器宽度 */
+  float: left;
+  padding-right: 20px;
+  width: 100px;
+  height: 100px;
 }
 
 .work-title {
