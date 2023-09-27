@@ -30,23 +30,6 @@
             </span>
           </div>
           {% endfor %}
-
-          <h1 class="work-heading"> Publications </h1>
-          {% for item in page.work-items %}
-          <div class="work-item">
-            <span class="work-title">
-              <strong>{{ item.title }}</strong>
-            </span>
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="work-bubble"
-            />
-            <span class="work-description description-toggle">
-              {{ item.description }}
-            </span>
-          </div>
-          {% endfor %}
           
         </div>
       </div>
