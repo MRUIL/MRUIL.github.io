@@ -32,8 +32,7 @@
           {% endfor %}
 
           <h1 class="work-heading"> Publications </h1>
-          {% include work.md %}
-          {% for item in page.items %}
+          {% for item in page.work-items %}
           <div class="work-item">
             <span class="work-title">
               <strong>{{ item.title }}</strong>
