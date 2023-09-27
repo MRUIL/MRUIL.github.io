@@ -14,7 +14,7 @@
 .work-bubble {
   display: block; /* 让图片居中显示 */
   margin: 0 auto; /* 水平居中 */
-  max-width: 100%; /* 设置图片最大宽度为100%行宽 */
+  width: 100%;
   height: auto; /* 让高度自动调整以保持等比例缩放 */
 }
 
