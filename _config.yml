@@ -14,8 +14,6 @@ header:
     - name: Home
       slug: /
     - name: Work
-    - name: Publications
-    - name: Blog
 
 footer:
   show_powered_by: true
