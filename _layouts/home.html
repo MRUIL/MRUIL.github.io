@@ -42,7 +42,7 @@
               alt="{{ item.image.alt }}"
               class="work-bubble"
             />
-            <span class="work-description">
+            <span class="work-description description-toggle">
               {{ item.description }}
             </span>
           </div>
@@ -57,3 +57,16 @@
     {% include foot.html %}
   </body>
 </html>
+
+<script>
+  // 获取所有具有类名 description-toggle 的元素
+  const descriptionElements = document.querySelectorAll('.description-toggle');
+
+  // 为每个元素添加点击事件处理程序
+  descriptionElements.forEach(element => {
+    element.addEventListener('click', () => {
+      // 切换描述元素的可见性
+      element.classList.toggle('hidden');
+    });
+  });
+</script>
