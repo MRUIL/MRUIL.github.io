@@ -4,6 +4,9 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title: 2024.02
+    description: "One paper is released to Arxiv. (ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks. Yang Liu, Xiaomin Yu, Gongyu Zhang, Christos Bergeles, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin)"
+    link: https://arxiv.org/abs/2402.17298
   - title: 2023.07
     description: "One paper is accepted by ICCV 2023. (SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition. Yang Liu, Jiayu Huo, Jingjing Peng, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin)"
     link: https://openaccess.thecvf.com/content/ICCV2023/html/Liu_SKiT_a_Fast_Key_Information_Video_Transformer_for_Online_Surgical_ICCV_2023_paper.html
