@@ -4,6 +4,9 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title: 2024.03
+    description: "One paper is released to Arxiv (as co-first and corresponding author). (Rethinking Low-quality Optical Flow in Unsupervised Surgical Instrument Segmentation. Peiran Wu*, Yang Liu*†, Jiayu Huo, Gongyu Zhang, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin)"
+    link: https://arxiv.org/abs/2403.10039
   - title: 2024.02
     description: "One paper is released to Arxiv. (ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks. Yang Liu, Xiaomin Yu, Gongyu Zhang, Zhen Zhu, Christos Bergeles, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin)"
     link: https://arxiv.org/abs/2402.17298
