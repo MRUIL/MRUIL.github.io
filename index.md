@@ -5,6 +5,9 @@ profile_picture:
   alt: website picture
 news-items:
   - title: 2024.03
+    description: "One paper is released to Arxiv (as co-first and corresponding author). (DDSB: An Unsupervised and Training-free Method for Phase Detection in Echocardiography. Zhenyu Bu*, Yang Liu*†, Jiayu Huo, Jingjing Peng, Kaini Wang, Guangquan Zhou, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin)"
+    link: https://arxiv.org/abs/2403.12787
+  - title: 2024.03
     description: "One paper is released to Arxiv (as co-first and corresponding author). (Rethinking Low-quality Optical Flow in Unsupervised Surgical Instrument Segmentation. Peiran Wu*, Yang Liu*†, Jiayu Huo, Gongyu Zhang, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin)"
     link: https://arxiv.org/abs/2403.10039
   - title: 2024.02
