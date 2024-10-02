@@ -4,6 +4,9 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title: 2024.05
+    description: "One paper is accepted by ISBI (as the last and corresponding author). (Gray Matter-Guided Attention Network for AD Diagnosis Using Structural MRI. Yanteng Zhang, Hongshun Cai, Yiming Du, Bingchao Xu, Yang Liu*)"
+    link: https://ieeexplore.ieee.org/abstract/document/10635472
   - title: 2024.03
     description: "One paper is released to Arxiv (as co-first and corresponding author). (DDSB: An Unsupervised and Training-free Method for Phase Detection in Echocardiography. Zhenyu Bu*, Yang Liu*†, Jiayu Huo, Jingjing Peng, Kaini Wang, Guangquan Zhou, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin)"
     link: https://arxiv.org/abs/2403.12787
