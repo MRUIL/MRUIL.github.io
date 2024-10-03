@@ -4,6 +4,9 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title: 2024.10
+    description: "One paper is accepted by Medical Image Analysis. (LoViT: Long Video Transformer for Surgical Phase Recognition. Yang Liu, Maxence Boels, Luis C. Garcia-Peraza-Herrera, Tom Vercauteren, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin) "
+    link: "https://arxiv.org/pdf/2305.08989.pdf"
   - title: 2024.05
     description: "One paper is accepted by ISBI (as the last and corresponding author). (Gray Matter-Guided Attention Network for AD Diagnosis Using Structural MRI. Yanteng Zhang, Hongshun Cai, Yiming Du, Bingchao Xu, Yang Liu*)"
     link: https://ieeexplore.ieee.org/abstract/document/10635472
