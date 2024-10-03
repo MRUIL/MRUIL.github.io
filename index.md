@@ -4,7 +4,7 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
-  - title: 2024.10
+  - title: 2024.10.02
     description: "One paper is accepted by Medical Image Analysis. (LoViT: Long Video Transformer for Surgical Phase Recognition. Yang Liu, Maxence Boels, Luis C. Garcia-Peraza-Herrera, Tom Vercauteren, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin) "
     link: "https://arxiv.org/pdf/2305.08989.pdf"
   - title: 2024.05
