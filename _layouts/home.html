@@ -16,21 +16,21 @@
           
           {{ content }}
           
-          <h1 class="news-heading"> News </h1>
-          {% for item in page.news-items %}
-          <div class="news-item">
-            <span class="news-description">
-              &middot; <strong>{{ item.title }}</strong>
-              &mdash;
-              {% if item.link %}
-                {{ item.description }} <a href="{{ item.link }}">Link</a> 
-              {% else %}
-                {{ item.description }}
-              {% endif %}
-            </span>
-          </div>
-          {% endfor %}
-          
+          <section class="news mb-5">
+            <h2>News</h2>
+            <ul class="list-unstyled">
+              {% for item in page.news-items %}
+              <li class="mb-2">
+                <strong>{{ item.title }}</strong> —
+                {% if item.link %}
+                  {{ item.description }} <a href="{{ item.link }}">[Link]</a>
+                {% else %}
+                  {{ item.description }}
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </section>     
         </div>
       </div>
     </div>
