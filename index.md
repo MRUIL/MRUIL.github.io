@@ -44,7 +44,17 @@ news-items:
     description: One paper is accepted by WACV 2021.
   - title: 2020.02
     description: One paper is accepted by CVPR 2020.
+    
 publication-items:
+
+  - image: "/assets/img/work/WDNet.jpg"
+    title: "Wdnet: Watermark-decomposition network for visible watermark removal"
+    authors: "Yang Liu, Zhen Zhu, Xiang Bai"
+    venue: "WACV"
+    year: "2021"
+    pdf_url: "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_WDNet_Watermark-Decomposition_Network_for_Visible_Watermark_Removal_WACV_2021_paper.pdf"
+    code_url: "https://github.com/MRUIL/WDNet"
+    
   - image: "/assets/img/work/SuperBPD.jpg"
     title: "Super Boundary-to-Pixel Direction for Fast Image Segmentation"
     authors: "Jianqiang Wan, Yang Liu, Donglai Wei, Xiang Bai, Yongchao Xu"
