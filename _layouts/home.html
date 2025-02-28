@@ -40,7 +40,7 @@
                 <img src="{{ item.image }}" alt="Publication Image">
               </div>
               <div class="publication-info">
-                <h3>{{ item.title }}</h3>
+                <h3><a href="{{ item.pdf_url }}" class="paper-title">{{ item.title }}</a></h3>
                 <p class="authors">{{ item.authors | replace: 'Yang Liu', '<strong>Yang Liu</strong>' | safe }}</p>
                 <p class="venue">{{ item.venue }}, {{ item.year }}</p>
                 <div class="buttons">
