@@ -47,7 +47,7 @@ news-items:
 publication-items:
   - image: "/assets/img/work/SuperBPD.jpg"
     title: "Super Boundary-to-Pixel Direction for Fast Image Segmentation"
-    authors: "Jianqiang Wan, Yang Liu, Xiang Bai, Yongchao Xu"
+    authors: "Jianqiang Wan, Yang Liu, Donglai Wei, Xiang Bai, Yongchao Xu"
     venue: "CVPR"
     year: "2020"
     pdf_url: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Wan_Super-BPD_Super_Boundary-to-Pixel_Direction_for_Fast_Image_Segmentation_CVPR_2020_paper.pdf"
