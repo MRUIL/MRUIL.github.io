@@ -9,14 +9,48 @@
       <div class="wrapper">
         {{ content }}
         
-        <h1 class="news-heading"> News </h1>
-        {% for item in page.news-items %}
-        <div class="news-item">       
-          <span class="news-description">
-            {{ item.description }}
-          </span>
-        </div>
-        {% endfor %}
+        <section class="news mb-5">
+            <h2>News</h2>
+            <ul class="list-unstyled">
+              {% for item in page.news-items %}
+              <li class="mb-2">
+                <strong>{{ item.title }}</strong> —
+                {% if item.link %}
+                  {{ item.description }} <a href="{{ item.link }}">[Link]</a>
+                {% else %}
+                  {{ item.description }}
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </section> 
+          <!-- Publications 区域 -->
+          <section class="publications mb-5">
+            <h2>Publications</h2>
+            
+            {% for item in page.publication-items %}
+            <div class="publication-item mb-4">
+              <h5>{{ item.title }}</h5>
+              <p class="text-muted">
+                {{ item.authors }}  
+                <br>
+                <em>{{ item.venue }}, {{ item.year }}</em>
+              </p>
+              <!-- 如果有 PDF/Code 链接，就渲染按钮 -->
+              {% if item.pdf_url %}
+                <a href="{{ item.pdf_url }}" class="btn btn-sm btn-outline-primary" target="_blank">
+                  PDF
+                </a>
+              {% endif %}
+              
+              {% if item.code_url %}
+                <a href="{{ item.code_url }}" class="btn btn-sm btn-outline-secondary" target="_blank">
+                  Code
+                </a>
+              {% endif %}
+            </div>
+            {% endfor %}
+          </section>
       </div>
     </div>
     
