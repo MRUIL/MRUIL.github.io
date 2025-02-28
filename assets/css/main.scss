@@ -101,6 +101,12 @@ $on-laptop: 800px;
   color: #333;
 }
 
+.paper-title:hover, .paper-title:focus {
+  color: #0056b3; /* 鼠标悬停时的颜色变深 */
+  text-decoration: underline; /* 可选：添加下划线 */
+}
+
+
 .authors, .venue {
   font-size: 0.9em;
   color: #666;
