@@ -45,10 +45,13 @@ news-items:
   - title: 2020.02
     description: One paper is accepted by CVPR 2020.
 publication-items:
-  - title: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
-    authors: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
+  - image: "/assets/img/work/SuperBPD.jpg"
+    title: "Super Boundary-to-Pixel Direction for Fast Image Segmentation"
+    authors: "Jianqiang Wan, Yang Liu, Xiang Bai, Yongchao Xu"
     venue: "CVPR"
-    year: "2025"
+    year: "2020"
+    pdf_url: "https://openaccess.thecvf.com/content_CVPR_2020/papers/Wan_Super-BPD_Super_Boundary-to-Pixel_Direction_for_Fast_Image_Segmentation_CVPR_2020_paper.pdf"
+    code_url: "https://github.com/JianqiangWan/Super-BPD"
 
 work-items:
   - title: Super Boundary-to-Pixel Direction for Fast Image Segmentation
