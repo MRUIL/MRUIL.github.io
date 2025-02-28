@@ -31,5 +31,50 @@ $on-laptop: 800px;
   }
 }
 
+.news {
+  font-family: Arial, sans-serif; /* 使用更适合阅读的字体 */
+}
+
+.news ul {
+  list-style: none; /* 去掉默认的列表符号 */
+  padding: 0;
+}
+
+.news li {
+  margin-bottom: 10px; /* 增加项目之间的间距 */
+  line-height: 1.6; /* 增加行高改善可读性 */
+}
+
+.news li:before {
+  content: "•"; /* 添加自定义的列表符号 */
+  color: #007BFF; /* 使用主题颜色 */
+  font-weight: bold; /* 加粗列表符号 */
+  display: inline-block; /* 确保符号和文本在同一行 */
+  width: 20px; /* 为符号分配空间 */
+}
+
+.news a {
+  color: #007BFF; /* 设置链接颜色 */
+  text-decoration: none; /* 去掉下划线 */
+}
+
+.news a:hover {
+  text-decoration: underline; /* 鼠标悬停时添加下划线 */
+}
+
+.news .date {
+  font-weight: bold; /* 加粗日期 */
+}
+
+.news .title {
+  margin-left: 5px; /* 在日期和标题之间添加空间 */
+}
+
+.news .description {
+  display: block; /* 描述显示为块级元素，占满整行 */
+  margin-top: 2px; /* 在标题和描述之间添加空间 */
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
