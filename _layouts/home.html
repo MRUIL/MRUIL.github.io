@@ -21,7 +21,7 @@
             <ul class="list-unstyled">
               {% for item in page.news-items %}
               <li class="mb-2">
-                <strong>{{ item.title }}</strong> —
+                <strong>{{ [item.title] }}</strong>
                 {% if item.link %}
                   {{ item.description }} <a href="{{ item.link }}">[Link]</a>
                 {% else %}
