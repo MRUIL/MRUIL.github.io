@@ -75,6 +75,57 @@ $on-laptop: 800px;
   margin-top: 2px; /* 在标题和描述之间添加空间 */
 }
 
+.publications {
+  width: 100%;
+  margin: 20px 0;
+}
 
+.publication-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.publication-image img {
+  width: 100px; /* 根据需要调整大小 */
+  height: auto;
+  margin-right: 20px;
+}
+
+.publication-info {
+  flex-grow: 1;
+}
+
+.publication-info h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.authors, .venue {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+.btn {
+  margin-right: 10px;
+  padding: 5px 10px; /* 调整按钮大小 */
+  text-decoration: none;
+  color: white;
+  background-color: #007bff; /* Bootstrap primary color */
+  border: none;
+  border-radius: 5px;
+}
+
+.btn-secondary {
+  background-color: #6c757d; /* Bootstrap secondary color */
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
