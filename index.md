@@ -4,6 +4,12 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title: 2025.02.27
+    description: "One paper is accepted by CVPR 2025. (WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation. Yang Liu*, Silin Cheng*,  Xinwei He, Sebastien Ourselin, Lei Tan, Gen Luo ) "
+  - title: 2025.01.22
+      description: "One paper is released to Arxiv. (CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation. Xianglong Shi, Yunhan Jiang, Xiaoheng Jiang, Mingling Xu, Yang Liu)"
+  - title: 2025.01.01
+      description: "Part-time Data Scientist started at Proximie."
   - title: 2024.10.02
     description: "One paper is accepted by Medical Image Analysis. (LoViT: Long Video Transformer for Surgical Phase Recognition. Yang Liu, Maxence Boels, Luis C. Garcia-Peraza-Herrera, Tom Vercauteren, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin) "
     link: "https://arxiv.org/pdf/2305.08989.pdf"
@@ -53,6 +59,6 @@ work-items:
 ---
 
 <p>
-  Welcome to the website of Yang Liu! I am a third-year PhD student at King's Colledge London supervised by <a href="https://scholar.google.com/citations?hl=en&user=SMvz9eEAAAAJ">Prof. Sebastian Ourselin</a>(first supervisor), <a href="https://scholar.google.com/citations?hl=en&user=9EMw-WYAAAAJ">Prof. Prokar Dasgupta</a>(second supervisor) and <a href="https://scholar.google.co.uk/citations?user=5vzyJOQAAAAJ&hl=en">Dr. Alejandro Granados Martinez</a>(third supervisor). I received my Master's degree from Huazhong University of Science and Technology in 2021, supervised by <a href="https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en">Prof. Xiang Bai</a>. My research interests are medical video recognition, image segmentation, image generation, etc.
+  Welcome to the website of Yang Liu! I am a last-year PhD student at King's Colledge London supervised by <a href="https://scholar.google.com/citations?hl=en&user=SMvz9eEAAAAJ">Prof. Sebastian Ourselin</a>(first supervisor), <a href="https://scholar.google.com/citations?hl=en&user=9EMw-WYAAAAJ">Prof. Prokar Dasgupta</a>(second supervisor) and <a href="https://scholar.google.co.uk/citations?user=5vzyJOQAAAAJ&hl=en">Dr. Alejandro Granados Martinez</a>(third supervisor). I received my Master's degree from Huazhong University of Science and Technology in 2021, supervised by <a href="https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en">Prof. Xiang Bai</a>. My research interests are medical video recognition, image segmentation, image generation, etc.
 </p>
 
