@@ -47,6 +47,11 @@ news-items:
     
 publication-items:
 
+  - image: "/assets/img/work/LoViT.jpg"
+      title: "Lovit: Long video transformer for surgical phase recognition"
+      venue: "MIA"
+      year: "2025"
+      pdf_url: "https://www.sciencedirect.com/science/article/pii/S1361841524002913"
   - image: "/assets/img/work/WDNet.jpg"
     title: "Wdnet: Watermark-decomposition network for visible watermark removal"
     authors: "Yang Liu, Zhen Zhu, Xiang Bai"
