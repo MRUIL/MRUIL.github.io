@@ -44,6 +44,12 @@ news-items:
     description: One paper is accepted by WACV 2021.
   - title: 2020.02
     description: One paper is accepted by CVPR 2020.
+publication-items:
+  - title: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
+    authors: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
+    venue: "CVPR"
+    year: "2025"
+
 work-items:
   - title: Super Boundary-to-Pixel Direction for Fast Image Segmentation
     image:
