@@ -7,9 +7,9 @@ news-items:
   - title: 2025.02.27
     description: "One paper is accepted by CVPR 2025. (WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation. Yang Liu*, Silin Cheng*,  Xinwei He, Sebastien Ourselin, Lei Tan, Gen Luo ) "
   - title: 2025.01.22
-      description: "One paper is released to Arxiv. (CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation. Xianglong Shi, Yunhan Jiang, Xiaoheng Jiang, Mingling Xu, Yang Liu)"
+    description: "One paper is released to Arxiv. (CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation. Xianglong Shi, Yunhan Jiang, Xiaoheng Jiang, Mingling Xu, Yang Liu)"
   - title: 2025.01.01
-      description: "Part-time Data Scientist started at Proximie."
+    description: "Part-time Data Scientist started at Proximie."
   - title: 2024.10.02
     description: "One paper is accepted by Medical Image Analysis. (LoViT: Long Video Transformer for Surgical Phase Recognition. Yang Liu, Maxence Boels, Luis C. Garcia-Peraza-Herrera, Tom Vercauteren, Prokar Dasgupta, Alejandro Granados, and Sebastien Ourselin) "
     link: "https://arxiv.org/pdf/2305.08989.pdf"
