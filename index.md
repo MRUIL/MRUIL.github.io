@@ -56,7 +56,7 @@ publication-items:
     authors: "Yang Liu, Xiaomin Yu, Gongyu Zhang, Christos Bergeles, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
     venue: "ArXiv"
     year: "2024"
-    pdf_url:"https://arxiv.org/pdf/2402.17298"
+    pdf_url: "https://arxiv.org/pdf/2402.17298"
   - image: "/assets/img/work/SKiT.jpg"
     title: "SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition"
     authors: "Yang Liu, Zhen Zhu, Xiang Bai"
