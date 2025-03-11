@@ -51,7 +51,6 @@ publication-items:
     authors: "Yang Liu*, Silin Cheng, Sebastien Ourselin, Gen Luo"
     venue: "CVPR"
     year: "2025"
-    pdf_url:""
   - image: "/assets/img/work/ArcSin.jpg"
     title: "ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks"
     authors: "Yang Liu, Xiaomin Yu, Gongyu Zhang, Christos Bergeles, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
