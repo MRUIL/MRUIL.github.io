@@ -46,9 +46,27 @@ news-items:
     description: One paper is accepted by CVPR 2020.
     
 publication-items:
-
+  - image: "/assets/img/work/WeakMCN.jpg"
+    title: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
+    authors: "Yang Liu*, Silin Cheng, Sebastien Ourselin, Gen Luo"
+    venue: "CVPR"
+    year: "2025"
+    pdf_url:""
+  - image: "/assets/img/work/ArcSin.jpg"
+    title: "ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks"
+    authors: "Yang Liu, Xiaomin Yu, Gongyu Zhang, Christos Bergeles, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
+    venue: "ArXiv"
+    year: "2024"
+    pdf_url:"https://arxiv.org/pdf/2402.17298"
+  - image: "/assets/img/work/SKiT.jpg"
+    title: "SKiT: a Fast Key Information Video Transformer for Online Surgical Phase Recognition"
+    authors: "Yang Liu, Zhen Zhu, Xiang Bai"
+    venue: "ICCV"
+    year: "2023"
+    pdf_url: "https://openaccess.thecvf.com/content/ICCV2023/html/Liu_SKiT_a_Fast_Key_Information_Video_Transformer_for_Online_Surgical_ICCV_2023_paper.html"
   - image: "/assets/img/work/LoViT.jpg"
     title: "Lovit: Long video transformer for surgical phase recognition"
+    authors: "Yang Liu, Jiayu Huo, Jingjing Peng, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
     venue: "MIA"
     year: "2025"
     pdf_url: "https://www.sciencedirect.com/science/article/pii/S1361841524002913"
