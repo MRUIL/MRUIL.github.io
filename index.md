@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 news-items:
   - title: 2025.03.21
-      description: "One paper is accepted by ICME 2025. (A Domain Generalization Framework Based on Wavelet-Driven Structural Enhancement and Contrastive Alignment. Yuheng Xu, Taiping Zhang, Yang Liu) "
+    description: "One paper is accepted by ICME 2025. (A Domain Generalization Framework Based on Wavelet-Driven Structural Enhancement and Contrastive Alignment. Yuheng Xu, Taiping Zhang, Yang Liu) "
   - title: 2025.02.27
     description: "One paper is accepted by CVPR 2025. (WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation. Yang Liu*, Silin Cheng*,  Xinwei He, Sebastien Ourselin, Lei Tan, Gen Luo ) "
   - title: 2025.01.22
