@@ -50,7 +50,7 @@ news-items:
 publication-items:
   - image: "/assets/img/work/WeakMCN.jpg"
     title: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
-    authors: "Yang Liu*, Silin Cheng, Sebastien Ourselin, Gen Luo"
+    authors: "Yang Liu*, Silin Chen**, Sebastien Ourselin, Gen Luo"
     venue: "CVPR"
     year: "2025"
   - image: "/assets/img/work/ArcSin.jpg"
