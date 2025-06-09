@@ -53,6 +53,8 @@ publication-items:
     authors: "Yang Liu*, Silin Chen**, Sebastien Ourselin, Gen Luo"
     venue: "CVPR"
     year: "2025"
+    pdf_url: "https://arxiv.org/pdf/2505.18686"
+    code_url: "https://github.com/MRUIL/WeakMCN"
   - image: "/assets/img/work/ArcSin.jpg"
     title: "ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks"
     authors: "Yang Liu, Xiaomin Yu, Gongyu Zhang, Christos Bergeles, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
