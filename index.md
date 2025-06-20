@@ -4,6 +4,8 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title: 2025.06
+    description: "One paper is accepted by MICCAI 2025. (Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow. Yang Liu, Peiran Wu, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin) "
   - title: 2025.03.21
     description: "One paper is accepted by ICME 2025. (A Domain Generalization Framework Based on Wavelet-Driven Structural Enhancement and Contrastive Alignment. Yuheng Xu, Taiping Zhang, Yang Liu) "
   - title: 2025.02.27
@@ -48,6 +50,13 @@ news-items:
     description: One paper is accepted by CVPR 2020.
     
 publication-items:
+  - image: "/assets/img/work/motion.jpg"
+    title: "Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow"
+    authors: "Yang Liu, Peiran Wu, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
+    venue: "MICCAI"
+    year: "2025"
+    pdf_url: "https://arxiv.org/abs/2403.10039"
+    code_url: ""
   - image: "/assets/img/work/WeakMCN.jpg"
     title: "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation"
     authors: "Yang Liu*, Silin Chen**, Sebastien Ourselin, Gen Luo"
