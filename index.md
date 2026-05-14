@@ -4,6 +4,12 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
+  - title：2026.05
+    description: "One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). (SLIM: High-Throughput Watermarking with
+Stationary Latent Manifolds. Quan Yan, Zhige Chen, Yang Liu†, and Zhiping Cai†) "
+  - title：2026.05
+    description: "One paper is early-accepted (top 9%) by MICCAI 2026. (Stabilizing Temporal Inference Dynamics for
+Online Surgical Phase Recognition. Yang Liu*, Ning Zhu*, Jingjing Peng, Xiwu Chen, Alejandro Granados, Guotai Wang, and Sebastien Ourselin) "
   - title: 2025.06
     description: "One paper is accepted by MICCAI 2025. (Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow. Yang Liu, Peiran Wu, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin) "
   - title: 2025.03.21
