@@ -4,7 +4,7 @@ profile_picture:
   src: /assets/img/profile_fig_v3.jpg
   alt: website picture
 news-items:
-  - title：2026.05.14
+  - title: 2026.05.14
     description: "One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). (SLIM: High-Throughput Watermarking with
 Stationary Latent Manifolds. Quan Yan, Zhige Chen, Yang Liu†, and Zhiping Cai†) "
   - title：2026.05.06
