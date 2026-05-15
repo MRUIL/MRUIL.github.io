@@ -119,6 +119,6 @@ work-items:
 ---
 
 <p>
-  Welcome to the website of Yang Liu! I am a last-year PhD student at King's Colledge London supervised by <a href="https://scholar.google.com/citations?hl=en&user=SMvz9eEAAAAJ">Prof. Sebastian Ourselin</a>(first supervisor), <a href="https://scholar.google.com/citations?hl=en&user=9EMw-WYAAAAJ">Prof. Prokar Dasgupta</a>(second supervisor) and <a href="https://scholar.google.co.uk/citations?user=5vzyJOQAAAAJ&hl=en">Dr. Alejandro Granados Martinez</a>(third supervisor). I received my Master's degree from Huazhong University of Science and Technology in 2021, supervised by <a href="https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en">Prof. Xiang Bai</a>. My research interests are medical video recognition, image segmentation, image generation, etc.
+  Welcome to the website of Yang Liu! I am a final-year PhD student at King's College London supervised by <a href="https://scholar.google.com/citations?hl=en&user=SMvz9eEAAAAJ">Prof. Sebastian Ourselin</a>(first supervisor), <a href="https://scholar.google.com/citations?hl=en&user=9EMw-WYAAAAJ">Prof. Prokar Dasgupta</a>(second supervisor) and <a href="https://scholar.google.co.uk/citations?user=5vzyJOQAAAAJ&hl=en">Dr. Alejandro Granados Martinez</a>(third supervisor). I received my Master's degree from Huazhong University of Science and Technology in 2021, supervised by <a href="https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en">Prof. Xiang Bai</a>. My research interests are medical video recognition, image segmentation, image generation, etc.
 </p>
 
