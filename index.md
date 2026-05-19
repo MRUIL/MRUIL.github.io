@@ -57,6 +57,13 @@ Online Surgical Phase Recognition. Yang Liu*, Ning Zhu*, Jingjing Peng, Xiwu Che
     
 publication-items:
   - image: "/assets/img/work/motion.jpg"
+    title: "Stabilizing Temporal Inference Dynamics for Online Surgical Phase Recognition"
+    authors: "Yang Liu*, Ning Zhu*, Jingjing Peng, Xiwu Chen, Alejandro Granados, Guotai Wang, Sebastien Ourselin"
+    venue: "MICCAI"
+    year: "2026"
+    pdf_url: "https://arxiv.org/abs/2605.16387"
+    code_url: ""
+  - image: "/assets/img/work/motion.jpg"
     title: "Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow"
     authors: "Yang Liu, Peiran Wu, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
     venue: "MICCAI"
