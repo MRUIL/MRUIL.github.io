@@ -56,7 +56,7 @@ Online Surgical Phase Recognition. Yang Liu*, Ning Zhu*, Jingjing Peng, Xiwu Che
     description: One paper is accepted by CVPR 2020.
     
 publication-items:
-  - image: "/assets/img/work/motion.jpg"
+  - image: "/assets/img/work/MICCAI2026_TEC.png"
     title: "Stabilizing Temporal Inference Dynamics for Online Surgical Phase Recognition"
     authors: "Yang Liu*, Ning Zhu*, Jingjing Peng, Xiwu Chen, Alejandro Granados, Guotai Wang, Sebastien Ourselin"
     venue: "MICCAI"
