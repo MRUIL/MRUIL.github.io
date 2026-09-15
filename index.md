@@ -62,7 +62,7 @@ publication-items:
     venue: "MICCAI"
     year: "2026"
     pdf_url: "https://arxiv.org/abs/2605.16387"
-    code_url: ""
+    code_url: "https://github.com/MRUIL/StableSPR"
   - image: "/assets/img/work/motion.jpg"
     title: "Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow"
     authors: "Yang Liu, Peiran Wu, Jiayu Huo, Gongyu Zhang, Zhen Yuan, Christos Bergeles, Rachel Sparks, Prokar Dasgupta, Alejandro Granados, Sebastien Ourselin"
