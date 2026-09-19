@@ -185,7 +185,7 @@ a.clink:hover{border-color:var(--cyan);transform:translateY(-2px)}
 .vnum{font-size:30px;font-weight:800;letter-spacing:-.02em;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;line-height:1}
 .vlbl{font-size:11px;color:var(--dim)}
 .visitors-badge{display:flex;justify-content:center;margin-bottom:12px}
-.visitors-map{border-radius:10px;overflow:hidden;background:#070b18}
+.visitors-map{border-radius:10px;overflow:hidden;background:#070b18;display:flex;justify-content:center;padding:6px 0}
 .visitors-map:empty,.visitors-map.dead{display:none}
 .visitors-map img,.visitors-map canvas,.visitors-map a{max-width:100%;display:block;margin:0 auto}
 
