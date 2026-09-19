@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="60" y2="60"><stop offset="0" stop-color="#38bdf8"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<rect width="64" height="64" rx="14" fill="#070b18"/>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="url(#g)" stroke-width="2.5"/>
+<text x="32" y="43" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-weight="800" font-size="30" letter-spacing="-1" fill="url(#g)">YL</text>
+<polyline points="8,52 18,52 21,46 24,56 27,52 40,52 43,49 46,52 56,52" fill="none" stroke="#22d3ee" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" opacity=".9"/>
+</svg>
