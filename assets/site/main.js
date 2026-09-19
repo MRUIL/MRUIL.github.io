@@ -94,6 +94,13 @@
     newsEl.parentNode.appendChild(btn);
   }
 
+  /* ---------- visitor widgets: hide whatever failed to load ---------- */
+  setTimeout(() => {
+    const pv = $("#busuanzi_value_site_pv"), stats = $("#visitorsStats"), badge = $("#visitorsBadge"), map = $("#visitorsMap");
+    if (pv && !/^\d/.test(pv.textContent.trim())) { if (stats) stats.hidden = true; if (badge) badge.hidden = false; }
+    if (map && !map.querySelector("img,canvas,a,iframe,div")) map.classList.add("dead");
+  }, 6000);
+
   /* ---------- hero canvas: neural particles ---------- */
   const net = $("#net"), ecg = $("#ecg");
   if (!reduced && net && ecg) {
