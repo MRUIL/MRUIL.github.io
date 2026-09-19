@@ -111,6 +111,7 @@ window.PUBS = [
 window.NEWS = [
   { date: "2026.05.14", text: "One paper accepted by <b>IEEE Transactions on Circuits and Systems for Video Technology</b> — SLIM: High-Throughput Watermarking with Stationary Latent Manifolds (Q. Yan, Z. Chen, Yang Liu†, Z. Cai†)." },
   { date: "2026.05.06", text: "One paper <b>early-accepted (top 9%)</b> by <b>MICCAI 2026</b> — Stabilizing Temporal Inference Dynamics for Online Surgical Phase Recognition (Yang Liu*, N. Zhu*, J. Peng, X. Chen, A. Granados, G. Wang, S. Ourselin).", link: "https://arxiv.org/abs/2605.16387" },
+  { date: "2026.01", text: "Received my <b>PhD</b> from King's College London." },
   { date: "2025.06", text: "One paper accepted by <b>MICCAI 2025</b> — Motion-Boundary-Driven Unsupervised Surgical Instrument Segmentation in Low-Quality Optical Flow.", link: "https://arxiv.org/abs/2403.10039" },
   { date: "2025.03.21", text: "One paper accepted by <b>ICME 2025</b> — A Domain Generalization Framework Based on Wavelet-Driven Structural Enhancement and Contrastive Alignment (Y. Xu, T. Zhang, Yang Liu)." },
   { date: "2025.02.27", text: "One paper accepted by <b>CVPR 2025</b> — WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation (Yang Liu*, S. Cheng*, X. He, S. Ourselin, L. Tan, G. Luo).", link: "https://arxiv.org/abs/2505.18686" },
@@ -132,7 +133,7 @@ window.NEWS = [
 ];
 
 window.TYPED_LINES = [
-  "final-year PhD candidate @ King's College London",
+  "PhD in Medical AI — King's College London (2026)",
   "real-time surgical video understanding — phase recognition at scale",
   "vision-language models for the operating room",
   "weakly-supervised & unsupervised medical segmentation",
