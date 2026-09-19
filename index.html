@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Yang Liu — Medical AI · Surgical Video Understanding · Vision-Language Models</title>
+<meta name="description" content="Yang Liu — final-year PhD candidate at King's College London working on surgical video understanding, medical image analysis and vision-language models. Publications at MICCAI, CVPR, ICCV, Medical Image Analysis, WACV.">
+<meta property="og:title" content="Yang Liu — Medical AI Researcher">
+<meta property="og:description" content="Surgical video understanding · Vision-language models · Medical image analysis. PhD @ King's College London.">
+<meta property="og:image" content="https://mruil.github.io/assets/img/profile_fig_v3.jpg">
+<meta property="og:url" content="https://mruil.github.io/">
+<meta name="theme-color" content="#070b18">
+<link rel="icon" href="favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site/style.css">
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<nav class="nav" id="nav">
+  <a class="brand" href="#top"><span class="brand-dot"></span>yang<span class="brand-accent">.liu</span></a>
+  <button class="nav-toggle" id="navToggle" aria-label="Menu"><span></span><span></span><span></span></button>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="#about">About</a></li>
+    <li><a href="#research">Research</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a class="nav-cta" href="https://github.com/MRUIL" target="_blank" rel="noopener">GitHub ↗</a></li>
+  </ul>
+</nav>
+
+<!-- ============ HERO ============ -->
+<header class="hero" id="top">
+  <canvas id="net"></canvas>
+  <canvas id="ecg"></canvas>
+  <div class="hero-inner">
+    <div class="hero-text">
+      <div class="terminal mono"><span class="prompt">~/yang-liu $</span> whoami<span class="cursor">▌</span></div>
+      <h1 class="hero-name"><span class="grad">Yang Liu</span></h1>
+      <p class="hero-tag">Medical AI &nbsp;·&nbsp; Surgical Video Understanding &nbsp;·&nbsp; Vision-Language Models</p>
+      <p class="hero-sub mono" id="typed" aria-live="polite"></p>
+      <div class="chips">
+        <span class="chip c-cyan">MICCAI</span><span class="chip c-indigo">CVPR</span><span class="chip c-violet">ICCV</span>
+        <span class="chip c-pink">MedIA</span><span class="chip c-green">WACV</span><span class="chip c-amber">TCSVT</span>
+      </div>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#publications">Publications</a>
+        <a class="btn btn-ghost" href="https://scholar.google.com/citations?user=Fgh4hTUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <a class="btn btn-ghost" href="https://github.com/MRUIL" target="_blank" rel="noopener">GitHub</a>
+        <a class="btn btn-ghost" href="mailto:yang.9.liu@kcl.ac.uk">Email</a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <div class="ring"></div>
+      <img src="assets/img/profile_fig_v3.jpg" alt="Portrait of Yang Liu" loading="eager">
+      <div class="photo-badge mono">PhD Candidate<br><b>King's College London</b></div>
+    </div>
+  </div>
+  <a class="scroll-hint" href="#about" aria-label="Scroll"><span></span></a>
+</header>
+
+<main>
+
+<!-- ============ ABOUT ============ -->
+<section class="section" id="about">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="mono sec-idx">01</span><h2>About</h2></div>
+    <div class="about-grid">
+      <div class="about-text reveal">
+        <p>I am a final-year PhD candidate at <a href="https://www.kcl.ac.uk/bmeis" target="_blank" rel="noopener">King's College London</a>, School of Biomedical Engineering &amp; Imaging Sciences, supervised by
+          <a href="https://scholar.google.com/citations?hl=en&user=SMvz9eEAAAAJ" target="_blank" rel="noopener">Prof. Sébastien Ourselin</a>,
+          <a href="https://scholar.google.com/citations?hl=en&user=9EMw-WYAAAAJ" target="_blank" rel="noopener">Prof. Prokar Dasgupta</a> and
+          <a href="https://scholar.google.co.uk/citations?user=5vzyJOQAAAAJ&hl=en" target="_blank" rel="noopener">Dr. Alejandro Granados</a>.
+          I received my Master's degree from Huazhong University of Science and Technology in 2021, advised by
+          <a href="https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en" target="_blank" rel="noopener">Prof. Xiang Bai</a>.</p>
+        <p>My research builds AI systems that understand <b>surgical video in real time</b> — online phase recognition over multi-hour procedures, streaming vision-language models for the operating room, and label-efficient segmentation of instruments and anatomy. I also work on broader medical imaging problems (echocardiography, stroke lesion segmentation, structural MRI) and on vision-language learning with weak supervision.</p>
+        <p>From January to July 2025 I worked part-time as a Data Scientist at <a href="https://www.proximie.com" target="_blank" rel="noopener">Proximie</a>, bringing surgical-video models closer to clinical deployment.</p>
+      </div>
+      <div class="stats reveal">
+        <div class="stat"><div class="stat-num" data-count="12">0</div><div class="stat-lbl">Peer-reviewed papers &amp; preprints</div></div>
+        <div class="stat"><div class="stat-num" data-count="7">0</div><div class="stat-lbl">Top-tier venues<br><span class="mono dim">MICCAI · CVPR · ICCV · MedIA · WACV</span></div></div>
+        <div class="stat"><div class="stat-num"><span data-count="1">0</span><sup>st</sup></div><div class="stat-lbl">MICCAI 2022 ATLAS Stroke Lesion Segmentation Challenge</div></div>
+        <div class="stat"><div class="stat-num"><span data-count="9">0</span>%</div><div class="stat-lbl">MICCAI 2026 early-accept tier (StableSPR)</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ RESEARCH ============ -->
+<section class="section alt" id="research">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="mono sec-idx">02</span><h2>Research</h2></div>
+    <div class="cards">
+      <article class="card reveal">
+        <div class="card-icon c-cyan">◉</div>
+        <h3>Surgical Video Understanding</h3>
+        <p>Online, causal recognition of surgical workflow — from single frames to multi-hour procedures. Long-video transformers, key-information compression and stable temporal inference.</p>
+        <div class="tags mono"><span>StableSPR</span><span>LoViT</span><span>SKiT</span></div>
+      </article>
+      <article class="card reveal">
+        <div class="card-icon c-indigo">◈</div>
+        <h3>Vision-Language Models</h3>
+        <p>Streaming VLMs for the operating room, weakly supervised referring comprehension &amp; segmentation, and noise-injected cross-modal alignment for language-driven visual tasks.</p>
+        <div class="tags mono"><span>WeakMCN</span><span>ArcSin</span></div>
+      </article>
+      <article class="card reveal">
+        <div class="card-icon c-violet">◍</div>
+        <h3>Label-efficient Segmentation</h3>
+        <p>Unsupervised surgical instrument segmentation from low-quality optical flow, fast boundary-to-pixel direction segmentation, and diffusion-based crack segmentation.</p>
+        <div class="tags mono"><span>Motion-Boundary</span><span>Super-BPD</span><span>CrossDiff</span></div>
+      </article>
+      <article class="card reveal">
+        <div class="card-icon c-pink">♥</div>
+        <h3>Medical Imaging</h3>
+        <p>Training-free cardiac phase detection in echocardiography, ischemic stroke lesion segmentation, and gray-matter-guided attention for Alzheimer's diagnosis from structural MRI.</p>
+        <div class="tags mono"><span>DDSB</span><span>ATLAS 1st</span><span>GM-Attention</span></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PUBLICATIONS ============ -->
+<section class="section" id="publications">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="mono sec-idx">03</span><h2>Publications</h2>
+      <p class="sec-note">* equal contribution &nbsp;·&nbsp; † corresponding author</p></div>
+    <div class="filters reveal" id="filters">
+      <button class="filter active" data-f="all">All</button>
+      <button class="filter" data-f="surgical">Surgical video</button>
+      <button class="filter" data-f="vlm">Vision-language</button>
+      <button class="filter" data-f="seg">Segmentation</button>
+      <button class="filter" data-f="medical">Medical imaging</button>
+      <button class="filter" data-f="other">Other</button>
+    </div>
+    <div class="pubs" id="pubs"></div>
+  </div>
+</section>
+
+<!-- ============ NEWS ============ -->
+<section class="section alt" id="news">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="mono sec-idx">04</span><h2>News</h2></div>
+    <ol class="timeline" id="newsList"></ol>
+  </div>
+</section>
+
+<!-- ============ EXPERIENCE ============ -->
+<section class="section" id="experience">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="mono sec-idx">05</span><h2>Experience &amp; Education</h2></div>
+    <div class="exp-grid">
+      <div class="exp reveal">
+        <div class="exp-when mono">2021 — present</div>
+        <h3>King's College London</h3>
+        <div class="exp-role">PhD Candidate · School of Biomedical Engineering &amp; Imaging Sciences</div>
+        <p>Surgical video understanding, streaming vision-language models, label-efficient medical segmentation. Supervised by Prof. Sébastien Ourselin, Prof. Prokar Dasgupta and Dr. Alejandro Granados.</p>
+      </div>
+      <div class="exp reveal">
+        <div class="exp-when mono">Jan — Jul 2025</div>
+        <h3>Proximie</h3>
+        <div class="exp-role">Data Scientist (part-time)</div>
+        <p>Surgical-video machine learning for a clinical telepresence and analytics platform.</p>
+      </div>
+      <div class="exp reveal">
+        <div class="exp-when mono">2021</div>
+        <h3>ByteDance</h3>
+        <div class="exp-role">Computer Vision Algorithm Engineer (intern) · Education department</div>
+        <p>Applied computer vision for education products.</p>
+      </div>
+      <div class="exp reveal">
+        <div class="exp-when mono">2018 — 2021</div>
+        <h3>Huazhong University of Science and Technology</h3>
+        <div class="exp-role">MSc · advised by Prof. Xiang Bai</div>
+        <p>Image segmentation and image restoration; publications at CVPR 2020 and WACV 2021.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CONTACT ============ -->
+<section class="section alt" id="contact">
+  <div class="wrap contact reveal">
+    <span class="mono sec-idx">06</span>
+    <h2>Let's collaborate</h2>
+    <p>Open to collaboration on surgical AI, medical video understanding and vision-language models.</p>
+    <div class="contact-links">
+      <a href="mailto:yang.9.liu@kcl.ac.uk" class="clink"><span class="mono">email</span>yang.9.liu@kcl.ac.uk</a>
+      <a href="https://scholar.google.com/citations?user=Fgh4hTUAAAAJ" target="_blank" rel="noopener" class="clink"><span class="mono">scholar</span>Google Scholar</a>
+      <a href="https://github.com/MRUIL" target="_blank" rel="noopener" class="clink"><span class="mono">github</span>@MRUIL</a>
+      <span class="clink"><span class="mono">location</span>London, UK</span>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap footer-inner">
+    <span class="mono dim">© <span id="year"></span> Yang Liu · King's College London</span>
+    <span class="mono dim">surgical phase recognition · weakly-supervised segmentation · streaming VLM · echocardiography</span>
+  </div>
+</footer>
+
+<a href="#top" class="totop" id="totop" aria-label="Back to top">↑</a>
+
+<script src="assets/site/data.js"></script>
+<script src="assets/site/main.js"></script>
+</body>
+</html>
