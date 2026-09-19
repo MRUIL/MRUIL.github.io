@@ -29,6 +29,7 @@
   $$(".reveal").forEach(el => io.observe(el));
 
   /* ---------- counters ---------- */
+  const pc = $("#pubCount"); if (pc && window.PUBS) pc.dataset.count = window.PUBS.length;
   const cio = new IntersectionObserver(es => es.forEach(e => {
     if (!e.isIntersecting) return; cio.unobserve(e.target);
     const el = e.target, end = +el.dataset.count, t0 = performance.now(), dur = 1200;
