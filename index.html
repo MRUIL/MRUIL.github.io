@@ -207,9 +207,11 @@
       <div class="visitors-badge" id="visitorsBadge" hidden>
         <img src="https://hits.sh/mruil.github.io.svg?style=for-the-badge&label=page%20views&color=38bdf8&labelColor=0f172a" alt="page views">
       </div>
-      <div class="visitors-map" id="visitorsMap">
-        <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=75iGrN2VhD4r06jfWy1K8XRwsKzzfJ9dfBmtdvoPyRU"></script>
+      <div class="globe-wrap" id="globeWrap">
+        <canvas id="globe" role="img" aria-label="Interactive globe of visitor locations"></canvas>
+        <div class="globe-tip mono" id="globeTip" hidden></div>
       </div>
+      <div class="globe-legend mono" id="globeLegend"></div>
       <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     </div>
   </div>
@@ -228,5 +230,6 @@
 
 <script src="assets/site/data.js"></script>
 <script src="assets/site/main.js"></script>
+<script src="assets/site/globe.js"></script>
 </body>
 </html>

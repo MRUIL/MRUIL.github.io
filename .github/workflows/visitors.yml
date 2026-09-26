@@ -1,0 +1,56 @@
+name: update visitor map
+
+on:
+  schedule:
+    - cron: "41 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: visitors
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check configuration
+        id: cfg
+        env:
+          K: ${{ secrets.GA4_SA_KEY }}
+          P: ${{ secrets.GA4_PROPERTY_ID }}
+        run: |
+          if [ -n "$K" ] && [ -n "$P" ]; then echo "ready=true" >> "$GITHUB_OUTPUT"
+          else echo "ready=false" >> "$GITHUB_OUTPUT"; echo "::notice::GA4_SA_KEY / GA4_PROPERTY_ID secrets not set yet - skipping"; fi
+      - uses: actions/checkout@v4
+        if: steps.cfg.outputs.ready == 'true'
+      - uses: actions/setup-python@v5
+        if: steps.cfg.outputs.ready == 'true'
+        with:
+          python-version: "3.12"
+      - name: Pull GA4 city aggregates
+        if: steps.cfg.outputs.ready == 'true'
+        env:
+          GA4_SA_KEY: ${{ secrets.GA4_SA_KEY }}
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+        run: |
+          pip install -q "google-analytics-data>=0.18,<1"
+          python scripts/update_visitors.py
+      - name: Commit if changed
+        id: commit
+        if: steps.cfg.outputs.ready == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/site/visitors.json
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"
+          else git commit -q -m "visitors: update $(date -u +%F)"; git push -q; echo "changed=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Request Pages build
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" --silent || true
