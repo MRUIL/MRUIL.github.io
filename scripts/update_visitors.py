@@ -87,14 +87,15 @@ for (city, cc, country), users, views in city_rows:
     if lat is None:
         unresolved.append((city, cc))
         continue
-    label = city if (known and exact) else ""
-    k = (label, cc, lat, lon)
+    k = (cc, lat, lon)                                   # merge rows that land on the same spot
     agg[k]["users"] += users
     agg[k]["views"] += views
     agg[k]["country"] = country
+    if known and exact and not agg[k].get("city"):
+        agg[k]["city"] = city
 
 points = sorted(
-    ({"city": k[0], "country": v["country"], "cc": k[1], "lat": k[2], "lon": k[3], "users": v["users"], "views": v["views"]} for k, v in agg.items()),
+    ({"city": v.get("city", ""), "country": v["country"], "cc": k[0], "lat": k[1], "lon": k[2], "users": v["users"], "views": v["views"]} for k, v in agg.items()),
     key=lambda p: (-p["users"], -p["views"], p["city"]),
 )
 countries = sorted(
