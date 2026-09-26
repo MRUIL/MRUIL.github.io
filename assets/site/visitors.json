@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": null,
+ "updated": "2026-09-26",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,11 +9,109 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 0,
-  "views": 0,
-  "cities": 0,
-  "countries": 0
+  "users": 36,
+  "views": 59,
+  "cities": 7,
+  "countries": 4
  },
- "points": [],
- "countries": []
+ "points": [
+  {
+   "city": "Singapore",
+   "country": "Singapore",
+   "cc": "SG",
+   "lat": 1.29,
+   "lon": 103.85,
+   "users": 24,
+   "views": 24
+  },
+  {
+   "city": "London",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.509,
+   "lon": -0.126,
+   "users": 2,
+   "views": 23
+  },
+  {
+   "city": "Shenzhen",
+   "country": "China",
+   "cc": "CN",
+   "lat": 22.546,
+   "lon": 114.068,
+   "users": 2,
+   "views": 4
+  },
+  {
+   "city": "Shanghai",
+   "country": "China",
+   "cc": "CN",
+   "lat": 31.222,
+   "lon": 121.458,
+   "users": 2,
+   "views": 2
+  },
+  {
+   "city": "",
+   "country": "Singapore",
+   "cc": "SG",
+   "lat": 1.29,
+   "lon": 103.85,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Council Bluffs",
+   "country": "United States",
+   "cc": "US",
+   "lat": 41.262,
+   "lon": -95.861,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Glenview",
+   "country": "United States",
+   "cc": "US",
+   "lat": 42.07,
+   "lon": -87.788,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Guangzhou",
+   "country": "China",
+   "cc": "CN",
+   "lat": 23.117,
+   "lon": 113.25,
+   "users": 1,
+   "views": 0
+  }
+ ],
+ "countries": [
+  {
+   "cc": "SG",
+   "country": "Singapore",
+   "users": 25,
+   "views": 25
+  },
+  {
+   "cc": "CN",
+   "country": "China",
+   "users": 4,
+   "views": 6
+  },
+  {
+   "cc": "GB",
+   "country": "United Kingdom",
+   "users": 2,
+   "views": 23
+  },
+  {
+   "cc": "US",
+   "country": "United States",
+   "users": 2,
+   "views": 2
+  }
+ ]
 }
