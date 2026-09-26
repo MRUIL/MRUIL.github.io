@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 24,
-   "views": 24
+   "users": 25,
+   "views": 25
   },
   {
    "city": "London",
@@ -50,15 +50,6 @@
    "lon": 121.458,
    "users": 2,
    "views": 2
-  },
-  {
-   "city": "",
-   "country": "Singapore",
-   "cc": "SG",
-   "lat": 1.29,
-   "lon": 103.85,
-   "users": 1,
-   "views": 1
   },
   {
    "city": "Council Bluffs",
