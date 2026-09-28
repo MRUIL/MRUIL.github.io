@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-09-27",
+ "updated": "2026-09-28",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 48,
-  "views": 73,
-  "cities": 7,
-  "countries": 4
+  "users": 49,
+  "views": 76,
+  "cities": 9,
+  "countries": 5
  },
  "points": [
   {
@@ -61,11 +61,29 @@
    "views": 2
   },
   {
+   "city": "Strasbourg",
+   "country": "France",
+   "cc": "FR",
+   "lat": 48.584,
+   "lon": 7.746,
+   "users": 1,
+   "views": 2
+  },
+  {
    "city": "Glenview",
    "country": "United States",
    "cc": "US",
    "lat": 42.07,
    "lon": -87.788,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Teaneck",
+   "country": "United States",
+   "cc": "US",
+   "lat": 40.898,
+   "lon": -74.016,
    "users": 1,
    "views": 1
   },
@@ -101,8 +119,14 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 3,
-   "views": 3
+   "users": 4,
+   "views": 4
+  },
+  {
+   "cc": "FR",
+   "country": "France",
+   "users": 1,
+   "views": 2
   }
  ]
 }
