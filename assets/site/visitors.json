@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 65,
-  "views": 94,
-  "cities": 14,
+  "users": 68,
+  "views": 97,
+  "cities": 15,
   "countries": 6
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 42,
-   "views": 43
+   "users": 43,
+   "views": 44
   },
   {
    "city": "London",
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 5,
-   "views": 28
+   "users": 6,
+   "views": 29
   },
   {
    "city": "Council Bluffs",
@@ -124,6 +124,15 @@
    "views": 1
   },
   {
+   "city": "Wyndham",
+   "country": "United States",
+   "cc": "US",
+   "lat": 37.698,
+   "lon": -77.612,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Guangzhou",
    "country": "China",
    "cc": "CN",
@@ -146,14 +155,14 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 42,
-   "views": 43
+   "users": 43,
+   "views": 44
   },
   {
    "cc": "US",
    "country": "United States",
-   "users": 9,
-   "views": 8
+   "users": 10,
+   "views": 9
   },
   {
    "cc": "CN",
@@ -164,8 +173,8 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 5,
-   "views": 28
+   "users": 6,
+   "views": 29
   },
   {
    "cc": "FR",
