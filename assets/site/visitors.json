@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 55,
-  "views": 83,
-  "cities": 11,
+  "users": 59,
+  "views": 88,
+  "cities": 12,
   "countries": 6
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 36,
-   "views": 36
+   "users": 38,
+   "views": 39
   },
   {
    "city": "London",
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 4,
-   "views": 27
+   "users": 5,
+   "views": 28
   },
   {
    "city": "Council Bluffs",
@@ -79,6 +79,15 @@
    "views": 3
   },
   {
+   "city": "",
+   "country": "China",
+   "cc": "CN",
+   "lat": 39.907,
+   "lon": 116.397,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Glenview",
    "country": "United States",
    "cc": "US",
@@ -113,32 +122,41 @@
    "lon": 113.25,
    "users": 1,
    "views": 0
+  },
+  {
+   "city": "Los Angeles",
+   "country": "United States",
+   "cc": "US",
+   "lat": 34.052,
+   "lon": -118.244,
+   "users": 1,
+   "views": 0
   }
  ],
  "countries": [
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 36,
-   "views": 36
+   "users": 38,
+   "views": 39
   },
   {
    "cc": "US",
    "country": "United States",
-   "users": 7,
+   "users": 8,
    "views": 7
   },
   {
    "cc": "CN",
    "country": "China",
-   "users": 4,
-   "views": 6
+   "users": 5,
+   "views": 7
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 4,
-   "views": 27
+   "users": 5,
+   "views": 28
   },
   {
    "cc": "FR",
