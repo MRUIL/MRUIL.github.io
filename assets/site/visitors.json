@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 69,
-  "views": 98,
-  "cities": 15,
+  "users": 72,
+  "views": 100,
+  "cities": 16,
   "countries": 6
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 44,
-   "views": 45
+   "users": 46,
+   "views": 46
   },
   {
    "city": "London",
@@ -97,6 +97,15 @@
    "views": 1
   },
   {
+   "city": "Los Angeles",
+   "country": "United States",
+   "cc": "US",
+   "lat": 34.052,
+   "lon": -118.244,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Reston",
    "country": "United States",
    "cc": "US",
@@ -142,11 +151,11 @@
    "views": 0
   },
   {
-   "city": "Los Angeles",
-   "country": "United States",
-   "cc": "US",
-   "lat": 34.052,
-   "lon": -118.244,
+   "city": "Hangzhou",
+   "country": "China",
+   "cc": "CN",
+   "lat": 30.294,
+   "lon": 120.161,
    "users": 1,
    "views": 0
   }
@@ -155,19 +164,19 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 44,
-   "views": 45
+   "users": 46,
+   "views": 46
   },
   {
    "cc": "US",
    "country": "United States",
    "users": 10,
-   "views": 9
+   "views": 10
   },
   {
    "cc": "CN",
    "country": "China",
-   "users": 6,
+   "users": 7,
    "views": 8
   },
   {
