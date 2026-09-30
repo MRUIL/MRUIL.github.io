@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 68,
-  "views": 97,
+  "users": 69,
+  "views": 98,
   "cities": 15,
   "countries": 6
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 43,
-   "views": 44
+   "users": 44,
+   "views": 45
   },
   {
    "city": "London",
@@ -155,8 +155,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 43,
-   "views": 44
+   "users": 44,
+   "views": 45
   },
   {
    "cc": "US",
