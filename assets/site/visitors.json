@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 80,
-  "views": 112,
+  "users": 82,
+  "views": 114,
   "cities": 17,
   "countries": 6
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 51,
-   "views": 51
+   "users": 52,
+   "views": 52
   },
   {
    "city": "London",
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 7,
-   "views": 30
+   "views": 31
   },
   {
    "city": "Council Bluffs",
@@ -79,6 +79,15 @@
    "views": 2
   },
   {
+   "city": "Guangzhou",
+   "country": "China",
+   "cc": "CN",
+   "lat": 23.117,
+   "lon": 113.25,
+   "users": 2,
+   "views": 1
+  },
+  {
    "city": "Strasbourg",
    "country": "France",
    "cc": "FR",
@@ -94,7 +103,7 @@
    "lat": 38.895,
    "lon": -77.036,
    "users": 1,
-   "views": 2
+   "views": 1
   },
   {
    "city": "Glenview",
@@ -160,15 +169,6 @@
    "views": 1
   },
   {
-   "city": "Guangzhou",
-   "country": "China",
-   "cc": "CN",
-   "lat": 23.117,
-   "lon": 113.25,
-   "users": 1,
-   "views": 0
-  },
-  {
    "city": "Hangzhou",
    "country": "China",
    "cc": "CN",
@@ -182,26 +182,26 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 51,
-   "views": 51
+   "users": 52,
+   "views": 52
   },
   {
    "cc": "US",
    "country": "United States",
    "users": 12,
-   "views": 13
+   "views": 12
   },
   {
    "cc": "CN",
    "country": "China",
-   "users": 7,
-   "views": 8
+   "users": 8,
+   "views": 9
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
    "users": 7,
-   "views": 30
+   "views": 31
   },
   {
    "cc": "FR",
