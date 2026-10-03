@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 85,
-  "views": 117,
+  "users": 86,
+  "views": 119,
   "cities": 17,
   "countries": 6
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 54,
-   "views": 54
+   "users": 55,
+   "views": 55
   },
   {
    "city": "London",
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 7,
-   "views": 31
+   "views": 32
   },
   {
    "city": "Council Bluffs",
@@ -182,8 +182,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 54,
-   "views": 54
+   "users": 55,
+   "views": 55
   },
   {
    "cc": "US",
@@ -201,7 +201,7 @@
    "cc": "GB",
    "country": "United Kingdom",
    "users": 7,
-   "views": 31
+   "views": 32
   },
   {
    "cc": "FR",
