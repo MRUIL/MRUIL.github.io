@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 94,
-  "views": 129,
+  "users": 96,
+  "views": 131,
   "cities": 18,
   "countries": 7
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 62,
-   "views": 62
+   "users": 63,
+   "views": 63
   },
   {
    "city": "London",
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 7,
-   "views": 33
+   "users": 8,
+   "views": 34
   },
   {
    "city": "Council Bluffs",
@@ -191,8 +191,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 62,
-   "views": 62
+   "users": 63,
+   "views": 63
   },
   {
    "cc": "US",
@@ -209,8 +209,8 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 7,
-   "views": 33
+   "users": 8,
+   "views": 34
   },
   {
    "cc": "FR",
