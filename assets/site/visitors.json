@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-03",
+ "updated": "2026-10-04",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 90,
-  "views": 124,
-  "cities": 17,
-  "countries": 6
+  "users": 93,
+  "views": 128,
+  "cities": 18,
+  "countries": 7
  },
  "points": [
   {
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 59,
-   "views": 59
+   "users": 61,
+   "views": 61
   },
   {
    "city": "London",
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 7,
-   "views": 32
+   "views": 33
   },
   {
    "city": "Council Bluffs",
@@ -102,6 +102,15 @@
    "cc": "US",
    "lat": 38.895,
    "lon": -77.036,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Dublin",
+   "country": "Ireland",
+   "cc": "IE",
+   "lat": 53.333,
+   "lon": -6.249,
    "users": 1,
    "views": 1
   },
@@ -182,8 +191,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 59,
-   "views": 59
+   "users": 61,
+   "views": 61
   },
   {
    "cc": "US",
@@ -201,13 +210,19 @@
    "cc": "GB",
    "country": "United Kingdom",
    "users": 7,
-   "views": 32
+   "views": 33
   },
   {
    "cc": "FR",
    "country": "France",
    "users": 1,
    "views": 7
+  },
+  {
+   "cc": "IE",
+   "country": "Ireland",
+   "users": 1,
+   "views": 1
   },
   {
    "cc": "JP",
