@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 100,
-  "views": 136,
+  "views": 137,
   "cities": 20,
   "countries": 7
  },
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 9,
-   "views": 35
+   "views": 36
   },
   {
    "city": "Council Bluffs",
@@ -222,7 +222,7 @@
    "cc": "GB",
    "country": "United Kingdom",
    "users": 11,
-   "views": 38
+   "views": 39
   },
   {
    "cc": "CN",
