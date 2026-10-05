@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 96,
-  "views": 131,
-  "cities": 18,
+  "users": 100,
+  "views": 136,
+  "cities": 20,
   "countries": 7
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 63,
-   "views": 63
+   "users": 64,
+   "views": 64
   },
   {
    "city": "London",
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 8,
-   "views": 34
+   "users": 9,
+   "views": 35
   },
   {
    "city": "Council Bluffs",
@@ -97,6 +97,15 @@
    "views": 7
   },
   {
+   "city": "Bath",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.375,
+   "lon": -2.362,
+   "users": 1,
+   "views": 2
+  },
+  {
    "city": "",
    "country": "United States",
    "cc": "US",
@@ -129,6 +138,15 @@
    "cc": "US",
    "lat": 34.052,
    "lon": -118.244,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Molesey",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.4,
+   "lon": -0.38,
    "users": 1,
    "views": 1
   },
@@ -191,8 +209,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 63,
-   "views": 63
+   "users": 64,
+   "views": 64
   },
   {
    "cc": "US",
@@ -201,16 +219,16 @@
    "views": 12
   },
   {
+   "cc": "GB",
+   "country": "United Kingdom",
+   "users": 11,
+   "views": 38
+  },
+  {
    "cc": "CN",
    "country": "China",
    "users": 9,
    "views": 10
-  },
-  {
-   "cc": "GB",
-   "country": "United Kingdom",
-   "users": 8,
-   "views": 34
   },
   {
    "cc": "FR",
