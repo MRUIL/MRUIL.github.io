@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-05",
+ "updated": "2026-10-06",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 100,
-  "views": 137,
-  "cities": 20,
+  "users": 102,
+  "views": 139,
+  "cities": 22,
   "countries": 7
  },
  "points": [
@@ -115,6 +115,15 @@
    "views": 1
   },
   {
+   "city": "Bristol",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.455,
+   "lon": -2.597,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Dublin",
    "country": "Ireland",
    "cc": "IE",
@@ -129,6 +138,15 @@
    "cc": "US",
    "lat": 42.07,
    "lon": -87.788,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Kawasaki",
+   "country": "Japan",
+   "cc": "JP",
+   "lat": 35.521,
+   "lon": 139.717,
    "users": 1,
    "views": 1
   },
@@ -213,22 +231,28 @@
    "views": 64
   },
   {
+   "cc": "GB",
+   "country": "United Kingdom",
+   "users": 12,
+   "views": 40
+  },
+  {
    "cc": "US",
    "country": "United States",
    "users": 12,
    "views": 12
   },
   {
-   "cc": "GB",
-   "country": "United Kingdom",
-   "users": 11,
-   "views": 39
-  },
-  {
    "cc": "CN",
    "country": "China",
    "users": 9,
    "views": 10
+  },
+  {
+   "cc": "JP",
+   "country": "Japan",
+   "users": 2,
+   "views": 2
   },
   {
    "cc": "FR",
@@ -239,12 +263,6 @@
   {
    "cc": "IE",
    "country": "Ireland",
-   "users": 1,
-   "views": 1
-  },
-  {
-   "cc": "JP",
-   "country": "Japan",
    "users": 1,
    "views": 1
   }
