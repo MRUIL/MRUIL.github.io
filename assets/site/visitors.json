@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 109,
-  "views": 149,
+  "users": 113,
+  "views": 153,
   "cities": 22,
   "countries": 7
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 70,
-   "views": 70
+   "users": 73,
+   "views": 73
   },
   {
    "city": "London",
@@ -32,6 +32,15 @@
    "lon": -0.126,
    "users": 9,
    "views": 37
+  },
+  {
+   "city": "Bath",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.375,
+   "lon": -2.362,
+   "users": 3,
+   "views": 5
   },
   {
    "city": "Council Bluffs",
@@ -50,15 +59,6 @@
    "lon": 121.458,
    "users": 3,
    "views": 3
-  },
-  {
-   "city": "Bath",
-   "country": "United Kingdom",
-   "cc": "GB",
-   "lat": 51.375,
-   "lon": -2.362,
-   "users": 2,
-   "views": 4
   },
   {
    "city": "Shenzhen",
@@ -227,14 +227,14 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 70,
-   "views": 70
+   "users": 73,
+   "views": 73
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 13,
-   "views": 44
+   "users": 14,
+   "views": 45
   },
   {
    "cc": "US",
