@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 119,
-  "views": 159,
-  "cities": 23,
+  "users": 122,
+  "views": 162,
+  "cities": 24,
   "countries": 8
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 75,
-   "views": 75
+   "users": 77,
+   "views": 77
   },
   {
    "city": "London",
@@ -187,6 +187,15 @@
    "views": 1
   },
   {
+   "city": "Spencer",
+   "country": "United States",
+   "cc": "US",
+   "lat": 43.141,
+   "lon": -95.144,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Stanford",
    "country": "United States",
    "cc": "US",
@@ -236,20 +245,20 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 75,
-   "views": 75
+   "users": 77,
+   "views": 77
+  },
+  {
+   "cc": "US",
+   "country": "United States",
+   "users": 15,
+   "views": 15
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
    "users": 14,
    "views": 45
-  },
-  {
-   "cc": "US",
-   "country": "United States",
-   "users": 14,
-   "views": 14
   },
   {
    "cc": "CN",
