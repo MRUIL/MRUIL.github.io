@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 114,
-  "views": 154,
-  "cities": 22,
-  "countries": 7
+  "users": 119,
+  "views": 159,
+  "cities": 23,
+  "countries": 8
  },
  "points": [
   {
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 74,
-   "views": 74
+   "users": 75,
+   "views": 75
   },
   {
    "city": "London",
@@ -34,6 +34,15 @@
    "views": 37
   },
   {
+   "city": "Council Bluffs",
+   "country": "United States",
+   "cc": "US",
+   "lat": 41.262,
+   "lon": -95.861,
+   "users": 4,
+   "views": 4
+  },
+  {
    "city": "Bath",
    "country": "United Kingdom",
    "cc": "GB",
@@ -41,15 +50,6 @@
    "lon": -2.362,
    "users": 3,
    "views": 5
-  },
-  {
-   "city": "Council Bluffs",
-   "country": "United States",
-   "cc": "US",
-   "lat": 41.262,
-   "lon": -95.861,
-   "users": 3,
-   "views": 3
   },
   {
    "city": "Shanghai",
@@ -75,6 +75,24 @@
    "cc": "CN",
    "lat": 39.907,
    "lon": 116.397,
+   "users": 2,
+   "views": 2
+  },
+  {
+   "city": "Glenview",
+   "country": "United States",
+   "cc": "US",
+   "lat": 42.07,
+   "lon": -87.788,
+   "users": 2,
+   "views": 2
+  },
+  {
+   "city": "Hong Kong",
+   "country": "Hong Kong",
+   "cc": "HK",
+   "lat": 22.278,
+   "lon": 114.175,
    "users": 2,
    "views": 2
   },
@@ -129,15 +147,6 @@
    "cc": "IE",
    "lat": 53.333,
    "lon": -6.249,
-   "users": 1,
-   "views": 1
-  },
-  {
-   "city": "Glenview",
-   "country": "United States",
-   "cc": "US",
-   "lat": 42.07,
-   "lon": -87.788,
    "users": 1,
    "views": 1
   },
@@ -227,8 +236,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 74,
-   "views": 74
+   "users": 75,
+   "views": 75
   },
   {
    "cc": "GB",
@@ -239,14 +248,20 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 12,
-   "views": 12
+   "users": 14,
+   "views": 14
   },
   {
    "cc": "CN",
    "country": "China",
    "users": 9,
    "views": 10
+  },
+  {
+   "cc": "HK",
+   "country": "Hong Kong",
+   "users": 2,
+   "views": 2
   },
   {
    "cc": "JP",
