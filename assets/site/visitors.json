@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 125,
-  "views": 166,
-  "cities": 24,
+  "users": 129,
+  "views": 172,
+  "cities": 25,
   "countries": 8
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 80,
-   "views": 80
+   "users": 83,
+   "views": 83
   },
   {
    "city": "London",
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 9,
-   "views": 38
+   "views": 39
   },
   {
    "city": "Council Bluffs",
@@ -70,6 +70,15 @@
    "views": 4
   },
   {
+   "city": "Hong Kong",
+   "country": "Hong Kong",
+   "cc": "HK",
+   "lat": 22.278,
+   "lon": 114.175,
+   "users": 2,
+   "views": 3
+  },
+  {
    "city": "Beijing",
    "country": "China",
    "cc": "CN",
@@ -84,15 +93,6 @@
    "cc": "US",
    "lat": 42.07,
    "lon": -87.788,
-   "users": 2,
-   "views": 2
-  },
-  {
-   "city": "Hong Kong",
-   "country": "Hong Kong",
-   "cc": "HK",
-   "lat": 22.278,
-   "lon": 114.175,
    "users": 2,
    "views": 2
   },
@@ -147,6 +147,15 @@
    "cc": "IE",
    "lat": 53.333,
    "lon": -6.249,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Kansas City",
+   "country": "United States",
+   "cc": "US",
+   "lat": 39.1,
+   "lon": -94.579,
    "users": 1,
    "views": 1
   },
@@ -245,20 +254,20 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 80,
-   "views": 80
+   "users": 83,
+   "views": 83
   },
   {
    "cc": "US",
    "country": "United States",
-   "users": 15,
-   "views": 15
+   "users": 16,
+   "views": 16
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
    "users": 14,
-   "views": 46
+   "views": 47
   },
   {
    "cc": "CN",
@@ -270,7 +279,7 @@
    "cc": "HK",
    "country": "Hong Kong",
    "users": 2,
-   "views": 2
+   "views": 3
   },
   {
    "cc": "JP",
