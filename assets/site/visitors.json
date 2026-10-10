@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 133,
-  "views": 176,
+  "users": 134,
+  "views": 178,
   "cities": 26,
-  "countries": 8
+  "countries": 9
  },
  "points": [
   {
@@ -122,6 +122,15 @@
    "lon": 7.746,
    "users": 1,
    "views": 7
+  },
+  {
+   "city": "",
+   "country": "Taiwan",
+   "cc": "TW",
+   "lat": 25.053,
+   "lon": 121.526,
+   "users": 1,
+   "views": 2
   },
   {
    "city": "Bristol",
@@ -307,6 +316,12 @@
    "country": "Ireland",
    "users": 1,
    "views": 1
+  },
+  {
+   "cc": "TW",
+   "country": "Taiwan",
+   "users": 1,
+   "views": 2
   }
  ]
 }
