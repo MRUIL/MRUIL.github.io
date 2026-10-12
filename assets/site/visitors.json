@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 141,
-  "views": 186,
+  "users": 142,
+  "views": 187,
   "cities": 26,
   "countries": 9
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 92,
-   "views": 92
+   "users": 93,
+   "views": 93
   },
   {
    "city": "London",
@@ -272,8 +272,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 92,
-   "views": 92
+   "users": 93,
+   "views": 93
   },
   {
    "cc": "US",
