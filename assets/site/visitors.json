@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 151,
-  "views": 198,
+  "users": 153,
+  "views": 200,
   "cities": 27,
   "countries": 9
  },
@@ -77,6 +77,15 @@
    "lon": -77.46,
    "users": 3,
    "views": 4
+  },
+  {
+   "city": "Dublin",
+   "country": "Ireland",
+   "cc": "IE",
+   "lat": 53.333,
+   "lon": -6.249,
+   "users": 3,
+   "views": 3
   },
   {
    "city": "Hong Kong",
@@ -165,15 +174,6 @@
    "cc": "US",
    "lat": 39.961,
    "lon": -82.999,
-   "users": 1,
-   "views": 1
-  },
-  {
-   "city": "Dublin",
-   "country": "Ireland",
-   "cc": "IE",
-   "lat": 53.333,
-   "lon": -6.249,
    "users": 1,
    "views": 1
   },
@@ -303,6 +303,12 @@
    "views": 12
   },
   {
+   "cc": "IE",
+   "country": "Ireland",
+   "users": 3,
+   "views": 3
+  },
+  {
    "cc": "HK",
    "country": "Hong Kong",
    "users": 2,
@@ -319,12 +325,6 @@
    "country": "France",
    "users": 1,
    "views": 7
-  },
-  {
-   "cc": "IE",
-   "country": "Ireland",
-   "users": 1,
-   "views": 1
   },
   {
    "cc": "TW",
