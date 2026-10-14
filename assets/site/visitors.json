@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 149,
-  "views": 195,
-  "cities": 26,
+  "users": 151,
+  "views": 198,
+  "cities": 27,
   "countries": 9
  },
  "points": [
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 9,
-   "views": 39
+   "users": 10,
+   "views": 40
   },
   {
    "city": "Council Bluffs",
@@ -138,6 +138,15 @@
    "cc": "GB",
    "lat": 51.455,
    "lon": -2.597,
+   "users": 1,
+   "views": 2
+  },
+  {
+   "city": "Phoenix",
+   "country": "United States",
+   "cc": "US",
+   "lat": 33.448,
+   "lon": -112.074,
    "users": 1,
    "views": 2
   },
@@ -278,14 +287,14 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 18,
-   "views": 19
+   "users": 19,
+   "views": 21
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 14,
-   "views": 47
+   "users": 15,
+   "views": 48
   },
   {
    "cc": "CN",
