@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 154,
-  "views": 202,
+  "views": 203,
   "cities": 27,
   "countries": 9
  },
@@ -120,6 +120,15 @@
    "cc": "CN",
    "lat": 23.117,
    "lon": 113.25,
+   "users": 2,
+   "views": 1
+  },
+  {
+   "city": "Hangzhou",
+   "country": "China",
+   "cc": "CN",
+   "lat": 30.294,
+   "lon": 120.161,
    "users": 2,
    "views": 1
   },
@@ -266,15 +275,6 @@
    "lon": -77.612,
    "users": 1,
    "views": 1
-  },
-  {
-   "city": "Hangzhou",
-   "country": "China",
-   "cc": "CN",
-   "lat": 30.294,
-   "lon": 120.161,
-   "users": 1,
-   "views": 0
   }
  ],
  "countries": [
@@ -300,7 +300,7 @@
    "cc": "CN",
    "country": "China",
    "users": 12,
-   "views": 12
+   "views": 13
   },
   {
    "cc": "IE",
