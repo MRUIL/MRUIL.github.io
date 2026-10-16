@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -34,6 +34,15 @@
    "views": 41
   },
   {
+   "city": "Shenzhen",
+   "country": "China",
+   "cc": "CN",
+   "lat": 22.546,
+   "lon": 114.068,
+   "users": 4,
+   "views": 5
+  },
+  {
    "city": "Council Bluffs",
    "country": "United States",
    "cc": "US",
@@ -57,15 +66,6 @@
    "cc": "GB",
    "lat": 51.375,
    "lon": -2.362,
-   "users": 3,
-   "views": 5
-  },
-  {
-   "city": "Shenzhen",
-   "country": "China",
-   "cc": "CN",
-   "lat": 22.546,
-   "lon": 114.068,
    "users": 3,
    "views": 5
   },
@@ -299,7 +299,7 @@
   {
    "cc": "CN",
    "country": "China",
-   "users": 11,
+   "users": 12,
    "views": 12
   },
   {
