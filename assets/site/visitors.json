@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 154,
-  "views": 203,
+  "views": 204,
   "cities": 27,
   "countries": 9
  },
@@ -79,6 +79,15 @@
    "views": 4
   },
   {
+   "city": "Beijing",
+   "country": "China",
+   "cc": "CN",
+   "lat": 39.907,
+   "lon": 116.397,
+   "users": 3,
+   "views": 3
+  },
+  {
    "city": "Dublin",
    "country": "Ireland",
    "cc": "IE",
@@ -95,15 +104,6 @@
    "lon": 114.175,
    "users": 2,
    "views": 3
-  },
-  {
-   "city": "Beijing",
-   "country": "China",
-   "cc": "CN",
-   "lat": 39.907,
-   "lon": 116.397,
-   "users": 2,
-   "views": 2
   },
   {
    "city": "Glenview",
@@ -299,8 +299,8 @@
   {
    "cc": "CN",
    "country": "China",
-   "users": 12,
-   "views": 13
+   "users": 13,
+   "views": 14
   },
   {
    "cc": "IE",
