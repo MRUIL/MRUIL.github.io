@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 154,
-  "views": 204,
-  "cities": 27,
-  "countries": 9
+  "users": 156,
+  "views": 205,
+  "cities": 29,
+  "countries": 10
  },
  "points": [
   {
@@ -187,6 +187,15 @@
    "views": 1
   },
   {
+   "city": "Houston",
+   "country": "United States",
+   "cc": "US",
+   "lat": 29.763,
+   "lon": -95.363,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Kansas City",
    "country": "United States",
    "cc": "US",
@@ -275,6 +284,15 @@
    "lon": -77.612,
    "users": 1,
    "views": 1
+  },
+  {
+   "city": "Baden-Baden",
+   "country": "Germany",
+   "cc": "DE",
+   "lat": 48.761,
+   "lon": 8.24,
+   "users": 1,
+   "views": 0
   }
  ],
  "countries": [
@@ -287,8 +305,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 19,
-   "views": 21
+   "users": 20,
+   "views": 22
   },
   {
    "cc": "GB",
@@ -319,6 +337,12 @@
    "country": "Japan",
    "users": 2,
    "views": 2
+  },
+  {
+   "cc": "DE",
+   "country": "Germany",
+   "users": 1,
+   "views": 0
   },
   {
    "cc": "FR",
