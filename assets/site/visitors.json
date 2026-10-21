@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 157,
-  "views": 206,
+  "views": 207,
   "cities": 29,
   "countries": 10
  },
@@ -76,7 +76,7 @@
    "lat": 37.554,
    "lon": -77.46,
    "users": 3,
-   "views": 4
+   "views": 5
   },
   {
    "city": "Beijing",
@@ -306,7 +306,7 @@
    "cc": "US",
    "country": "United States",
    "users": 20,
-   "views": 22
+   "views": 23
   },
   {
    "cc": "GB",
