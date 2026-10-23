@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 158,
-  "views": 208,
+  "users": 159,
+  "views": 211,
   "cities": 29,
   "countries": 10
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 100,
-   "views": 100
+   "users": 101,
+   "views": 101
   },
   {
    "city": "London",
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 11,
-   "views": 42
+   "users": 12,
+   "views": 43
   },
   {
    "city": "Shenzhen",
@@ -61,20 +61,20 @@
    "views": 4
   },
   {
-   "city": "Bath",
-   "country": "United Kingdom",
-   "cc": "GB",
-   "lat": 51.375,
-   "lon": -2.362,
-   "users": 3,
-   "views": 5
-  },
-  {
    "city": "Richmond",
    "country": "United States",
    "cc": "US",
    "lat": 37.554,
    "lon": -77.46,
+   "users": 3,
+   "views": 6
+  },
+  {
+   "city": "Bath",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.375,
+   "lon": -2.362,
    "users": 3,
    "views": 5
   },
@@ -299,20 +299,20 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 100,
-   "views": 100
+   "users": 101,
+   "views": 101
   },
   {
    "cc": "US",
    "country": "United States",
    "users": 21,
-   "views": 24
+   "views": 25
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 16,
-   "views": 50
+   "users": 17,
+   "views": 51
   },
   {
    "cc": "CN",
