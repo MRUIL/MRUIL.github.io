@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 160,
-  "views": 212,
-  "cities": 29,
+  "users": 162,
+  "views": 214,
+  "cities": 30,
   "countries": 10
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 102,
-   "views": 102
+   "users": 103,
+   "views": 103
   },
   {
    "city": "London",
@@ -178,6 +178,15 @@
    "views": 2
   },
   {
+   "city": "Ashburn",
+   "country": "United States",
+   "cc": "US",
+   "lat": 39.044,
+   "lon": -77.487,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Columbus",
    "country": "United States",
    "cc": "US",
@@ -299,14 +308,14 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 102,
-   "views": 102
+   "users": 103,
+   "views": 103
   },
   {
    "cc": "US",
    "country": "United States",
-   "users": 21,
-   "views": 25
+   "users": 22,
+   "views": 26
   },
   {
    "cc": "GB",
