@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 162,
-  "views": 215,
+  "users": 164,
+  "views": 217,
   "cities": 30,
   "countries": 10
  },
@@ -41,6 +41,15 @@
    "lon": 114.068,
    "users": 4,
    "views": 5
+  },
+  {
+   "city": "",
+   "country": "United States",
+   "cc": "US",
+   "lat": 38.895,
+   "lon": -77.036,
+   "users": 4,
+   "views": 4
   },
   {
    "city": "Council Bluffs",
@@ -104,15 +113,6 @@
    "lon": 114.175,
    "users": 2,
    "views": 3
-  },
-  {
-   "city": "",
-   "country": "United States",
-   "cc": "US",
-   "lat": 38.895,
-   "lon": -77.036,
-   "users": 2,
-   "views": 2
   },
   {
    "city": "Glenview",
@@ -314,8 +314,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 22,
-   "views": 26
+   "users": 24,
+   "views": 28
   },
   {
    "cc": "GB",
