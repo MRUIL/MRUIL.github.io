@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 168,
-  "views": 222,
+  "views": 223,
   "cities": 30,
   "countries": 10
  },
@@ -34,6 +34,15 @@
    "views": 45
   },
   {
+   "city": "",
+   "country": "United States",
+   "cc": "US",
+   "lat": 38.895,
+   "lon": -77.036,
+   "users": 5,
+   "views": 5
+  },
+  {
    "city": "Shenzhen",
    "country": "China",
    "cc": "CN",
@@ -41,15 +50,6 @@
    "lon": 114.068,
    "users": 4,
    "views": 5
-  },
-  {
-   "city": "",
-   "country": "United States",
-   "cc": "US",
-   "lat": 38.895,
-   "lon": -77.036,
-   "users": 4,
-   "views": 4
   },
   {
    "city": "Council Bluffs",
@@ -314,8 +314,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 24,
-   "views": 29
+   "users": 25,
+   "views": 30
   },
   {
    "cc": "GB",
