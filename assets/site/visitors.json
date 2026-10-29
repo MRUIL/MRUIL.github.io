@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 167,
-  "views": 221,
+  "users": 168,
+  "views": 222,
   "cities": 30,
   "countries": 10
  },
@@ -106,6 +106,15 @@
    "views": 3
   },
   {
+   "city": "",
+   "country": "Taiwan",
+   "cc": "TW",
+   "lat": 25.053,
+   "lon": 121.526,
+   "users": 2,
+   "views": 3
+  },
+  {
    "city": "Hong Kong",
    "country": "Hong Kong",
    "cc": "HK",
@@ -149,15 +158,6 @@
    "lon": 7.746,
    "users": 1,
    "views": 7
-  },
-  {
-   "city": "",
-   "country": "Taiwan",
-   "cc": "TW",
-   "lat": 25.053,
-   "lon": 121.526,
-   "users": 1,
-   "views": 2
   },
   {
    "city": "Bristol",
@@ -348,6 +348,12 @@
    "views": 2
   },
   {
+   "cc": "TW",
+   "country": "Taiwan",
+   "users": 2,
+   "views": 3
+  },
+  {
    "cc": "DE",
    "country": "Germany",
    "users": 1,
@@ -358,12 +364,6 @@
    "country": "France",
    "users": 1,
    "views": 7
-  },
-  {
-   "cc": "TW",
-   "country": "Taiwan",
-   "users": 1,
-   "views": 2
   }
  ]
 }
