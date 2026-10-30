@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 168,
-  "views": 223,
-  "cities": 30,
+  "users": 169,
+  "views": 224,
+  "cities": 31,
   "countries": 10
  },
  "points": [
@@ -187,6 +187,15 @@
    "views": 1
   },
   {
+   "city": "Atlanta",
+   "country": "United States",
+   "cc": "US",
+   "lat": 33.749,
+   "lon": -84.388,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Columbus",
    "country": "United States",
    "cc": "US",
@@ -314,8 +323,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 25,
-   "views": 30
+   "users": 26,
+   "views": 31
   },
   {
    "cc": "GB",
