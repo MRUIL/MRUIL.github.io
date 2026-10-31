@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 169,
-  "views": 224,
-  "cities": 31,
-  "countries": 10
+  "users": 171,
+  "views": 226,
+  "cities": 33,
+  "countries": 11
  },
  "points": [
   {
@@ -178,6 +178,15 @@
    "views": 2
   },
   {
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "cc": "NL",
+   "lat": 52.374,
+   "lon": 4.89,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Ashburn",
    "country": "United States",
    "cc": "US",
@@ -246,6 +255,15 @@
    "cc": "GB",
    "lat": 51.4,
    "lon": -0.38,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Pinner",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.594,
+   "lon": -0.382,
    "users": 1,
    "views": 1
   },
@@ -329,8 +347,8 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 18,
-   "views": 53
+   "users": 19,
+   "views": 54
   },
   {
    "cc": "CN",
@@ -373,6 +391,12 @@
    "country": "France",
    "users": 1,
    "views": 7
+  },
+  {
+   "cc": "NL",
+   "country": "Netherlands",
+   "users": 1,
+   "views": 1
   }
  ]
 }
