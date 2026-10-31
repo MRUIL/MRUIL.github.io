@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 171,
-  "views": 226,
+  "users": 173,
+  "views": 228,
   "cities": 33,
   "countries": 11
  },
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 13,
-   "views": 45
+   "users": 14,
+   "views": 46
   },
   {
    "city": "",
@@ -106,6 +106,15 @@
    "views": 3
   },
   {
+   "city": "Guangzhou",
+   "country": "China",
+   "cc": "CN",
+   "lat": 23.117,
+   "lon": 113.25,
+   "users": 3,
+   "views": 2
+  },
+  {
    "city": "",
    "country": "Taiwan",
    "cc": "TW",
@@ -131,15 +140,6 @@
    "lon": -87.788,
    "users": 2,
    "views": 2
-  },
-  {
-   "city": "Guangzhou",
-   "country": "China",
-   "cc": "CN",
-   "lat": 23.117,
-   "lon": 113.25,
-   "users": 2,
-   "views": 1
   },
   {
    "city": "Hangzhou",
@@ -347,14 +347,14 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 19,
-   "views": 54
+   "users": 20,
+   "views": 55
   },
   {
    "cc": "CN",
    "country": "China",
-   "users": 13,
-   "views": 14
+   "users": 14,
+   "views": 15
   },
   {
    "cc": "IE",
