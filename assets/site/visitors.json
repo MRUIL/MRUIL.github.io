@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 174,
-  "views": 229,
+  "views": 230,
   "cities": 33,
   "countries": 11
  },
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 15,
-   "views": 47
+   "views": 48
   },
   {
    "city": "",
@@ -348,7 +348,7 @@
    "cc": "GB",
    "country": "United Kingdom",
    "users": 21,
-   "views": 56
+   "views": 57
   },
   {
    "cc": "CN",
