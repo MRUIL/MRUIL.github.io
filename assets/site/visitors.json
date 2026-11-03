@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 174,
-  "views": 230,
-  "cities": 33,
+  "users": 175,
+  "views": 231,
+  "cities": 34,
   "countries": 11
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 105,
-   "views": 105
+   "users": 106,
+   "views": 106
   },
   {
    "city": "London",
@@ -329,19 +329,28 @@
    "lon": 8.24,
    "users": 1,
    "views": 0
+  },
+  {
+   "city": "Burien",
+   "country": "United States",
+   "cc": "US",
+   "lat": 47.47,
+   "lon": -122.347,
+   "users": 1,
+   "views": 0
   }
  ],
  "countries": [
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 105,
-   "views": 105
+   "users": 106,
+   "views": 106
   },
   {
    "cc": "US",
    "country": "United States",
-   "users": 26,
+   "users": 27,
    "views": 31
   },
   {
