@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 175,
-  "views": 231,
+  "views": 232,
   "cities": 34,
   "countries": 11
  },
@@ -88,6 +88,15 @@
    "views": 5
   },
   {
+   "city": "Hong Kong",
+   "country": "Hong Kong",
+   "cc": "HK",
+   "lat": 22.278,
+   "lon": 114.175,
+   "users": 3,
+   "views": 4
+  },
+  {
    "city": "Beijing",
    "country": "China",
    "cc": "CN",
@@ -120,15 +129,6 @@
    "cc": "TW",
    "lat": 25.053,
    "lon": 121.526,
-   "users": 2,
-   "views": 3
-  },
-  {
-   "city": "Hong Kong",
-   "country": "Hong Kong",
-   "cc": "HK",
-   "lat": 22.278,
-   "lon": 114.175,
    "users": 2,
    "views": 3
   },
@@ -366,15 +366,15 @@
    "views": 15
   },
   {
+   "cc": "HK",
+   "country": "Hong Kong",
+   "users": 3,
+   "views": 4
+  },
+  {
    "cc": "IE",
    "country": "Ireland",
    "users": 3,
-   "views": 3
-  },
-  {
-   "cc": "HK",
-   "country": "Hong Kong",
-   "users": 2,
    "views": 3
   },
   {
