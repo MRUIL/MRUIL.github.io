@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 176,
-  "views": 234,
-  "cities": 34,
+  "users": 178,
+  "views": 237,
+  "cities": 35,
   "countries": 11
  },
  "points": [
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 15,
-   "views": 49
+   "users": 16,
+   "views": 50
   },
   {
    "city": "",
@@ -76,7 +76,7 @@
    "lat": 37.554,
    "lon": -77.46,
    "users": 3,
-   "views": 7
+   "views": 8
   },
   {
    "city": "Bath",
@@ -210,6 +210,15 @@
    "cc": "US",
    "lat": 39.961,
    "lon": -82.999,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Concord",
+   "country": "United States",
+   "cc": "US",
+   "lat": 37.978,
+   "lon": -122.031,
    "users": 1,
    "views": 1
   },
@@ -350,14 +359,14 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 27,
-   "views": 31
+   "users": 28,
+   "views": 33
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 21,
-   "views": 58
+   "users": 22,
+   "views": 59
   },
   {
    "cc": "CN",
