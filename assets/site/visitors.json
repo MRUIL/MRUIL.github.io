@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 178,
-  "views": 237,
-  "cities": 35,
+  "users": 179,
+  "views": 239,
+  "cities": 36,
   "countries": 11
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 107,
-   "views": 107
+   "users": 108,
+   "views": 108
   },
   {
    "city": "London",
@@ -205,6 +205,15 @@
    "views": 1
   },
   {
+   "city": "Brookhaven",
+   "country": "United States",
+   "cc": "US",
+   "lat": 33.858,
+   "lon": -84.34,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Columbus",
    "country": "United States",
    "cc": "US",
@@ -353,14 +362,14 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 107,
-   "views": 107
+   "users": 108,
+   "views": 108
   },
   {
    "cc": "US",
    "country": "United States",
    "users": 28,
-   "views": 33
+   "views": 34
   },
   {
    "cc": "GB",
