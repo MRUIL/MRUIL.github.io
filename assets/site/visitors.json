@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 179,
-  "views": 239,
+  "users": 180,
+  "views": 243,
   "cities": 36,
   "countries": 11
  },
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 16,
-   "views": 50
+   "users": 18,
+   "views": 52
   },
   {
    "city": "",
@@ -160,6 +160,15 @@
    "views": 7
   },
   {
+   "city": "Brookhaven",
+   "country": "United States",
+   "cc": "US",
+   "lat": 33.858,
+   "lon": -84.34,
+   "users": 1,
+   "views": 3
+  },
+  {
    "city": "Bristol",
    "country": "United Kingdom",
    "cc": "GB",
@@ -201,15 +210,6 @@
    "cc": "US",
    "lat": 33.749,
    "lon": -84.388,
-   "users": 1,
-   "views": 1
-  },
-  {
-   "city": "Brookhaven",
-   "country": "United States",
-   "cc": "US",
-   "lat": 33.858,
-   "lon": -84.34,
    "users": 1,
    "views": 1
   },
@@ -369,13 +369,13 @@
    "cc": "US",
    "country": "United States",
    "users": 28,
-   "views": 34
+   "views": 36
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 22,
-   "views": 59
+   "users": 23,
+   "views": 61
   },
   {
    "cc": "CN",
