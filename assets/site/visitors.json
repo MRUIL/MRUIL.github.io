@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 182,
-  "views": 247,
-  "cities": 38,
+  "users": 183,
+  "views": 248,
+  "cities": 39,
   "countries": 11
  },
  "points": [
@@ -232,6 +232,15 @@
    "views": 1
   },
   {
+   "city": "Harrow",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.578,
+   "lon": -0.332,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Houston",
    "country": "United States",
    "cc": "US",
@@ -392,8 +401,8 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 23,
-   "views": 61
+   "users": 24,
+   "views": 62
   },
   {
    "cc": "CN",
