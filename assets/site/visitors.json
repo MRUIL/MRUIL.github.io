@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 183,
-  "views": 248,
-  "cities": 39,
+  "users": 184,
+  "views": 250,
+  "cities": 40,
   "countries": 11
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 108,
-   "views": 108
+   "users": 109,
+   "views": 109
   },
   {
    "city": "London",
@@ -192,6 +192,15 @@
    "cc": "NL",
    "lat": 52.374,
    "lon": 4.89,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Arlington",
+   "country": "United States",
+   "cc": "US",
+   "lat": 32.736,
+   "lon": -97.108,
    "users": 1,
    "views": 1
   },
@@ -389,14 +398,14 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 108,
-   "views": 108
+   "users": 109,
+   "views": 109
   },
   {
    "cc": "US",
    "country": "United States",
    "users": 29,
-   "views": 37
+   "views": 38
   },
   {
    "cc": "GB",
