@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 184,
-  "views": 251,
+  "users": 186,
+  "views": 252,
   "cities": 40,
   "countries": 11
  },
@@ -30,7 +30,7 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 18,
+   "users": 19,
    "views": 52
   },
   {
@@ -39,8 +39,8 @@
    "cc": "US",
    "lat": 38.895,
    "lon": -77.036,
-   "users": 5,
-   "views": 5
+   "users": 6,
+   "views": 6
   },
   {
    "city": "Shenzhen",
@@ -404,13 +404,13 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 29,
-   "views": 39
+   "users": 30,
+   "views": 40
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 24,
+   "users": 25,
    "views": 62
   },
   {
