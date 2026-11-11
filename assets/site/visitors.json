@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 186,
-  "views": 252,
-  "cities": 40,
-  "countries": 11
+  "users": 190,
+  "views": 257,
+  "cities": 43,
+  "countries": 12
  },
  "points": [
   {
@@ -43,6 +43,15 @@
    "views": 6
   },
   {
+   "city": "Council Bluffs",
+   "country": "United States",
+   "cc": "US",
+   "lat": 41.262,
+   "lon": -95.861,
+   "users": 5,
+   "views": 5
+  },
+  {
    "city": "Shenzhen",
    "country": "China",
    "cc": "CN",
@@ -50,15 +59,6 @@
    "lon": 114.068,
    "users": 4,
    "views": 5
-  },
-  {
-   "city": "Council Bluffs",
-   "country": "United States",
-   "cc": "US",
-   "lat": 41.262,
-   "lon": -95.861,
-   "users": 4,
-   "views": 4
   },
   {
    "city": "Guangzhou",
@@ -174,6 +174,15 @@
    "cc": "US",
    "lat": 32.736,
    "lon": -97.108,
+   "users": 1,
+   "views": 2
+  },
+  {
+   "city": "Brisbane",
+   "country": "Australia",
+   "cc": "AU",
+   "lat": -27.468,
+   "lon": 153.028,
    "users": 1,
    "views": 2
   },
@@ -295,6 +304,15 @@
    "views": 1
   },
   {
+   "city": "Northbrook",
+   "country": "United States",
+   "cc": "US",
+   "lat": 42.128,
+   "lon": -87.829,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Pinner",
    "country": "United Kingdom",
    "cc": "GB",
@@ -367,6 +385,15 @@
    "views": 1
   },
   {
+   "city": "Wickliffe",
+   "country": "United States",
+   "cc": "US",
+   "lat": 41.605,
+   "lon": -81.453,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Wyndham",
    "country": "United States",
    "cc": "US",
@@ -404,8 +431,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 30,
-   "views": 40
+   "users": 33,
+   "views": 43
   },
   {
    "cc": "GB",
@@ -442,6 +469,12 @@
    "country": "Taiwan",
    "users": 2,
    "views": 3
+  },
+  {
+   "cc": "AU",
+   "country": "Australia",
+   "users": 1,
+   "views": 2
   },
   {
    "cc": "DE",
