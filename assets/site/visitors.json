@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 190,
-  "views": 261,
+  "users": 191,
+  "views": 262,
   "cities": 43,
   "countries": 12
  },
@@ -133,6 +133,15 @@
    "views": 3
   },
   {
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "cc": "NL",
+   "lat": 52.374,
+   "lon": 4.89,
+   "users": 2,
+   "views": 2
+  },
+  {
    "city": "Glenview",
    "country": "United States",
    "cc": "US",
@@ -221,15 +230,6 @@
    "lon": -112.074,
    "users": 1,
    "views": 2
-  },
-  {
-   "city": "Amsterdam",
-   "country": "Netherlands",
-   "cc": "NL",
-   "lat": 52.374,
-   "lon": 4.89,
-   "users": 1,
-   "views": 1
   },
   {
    "city": "Ashburn",
@@ -465,6 +465,12 @@
    "views": 2
   },
   {
+   "cc": "NL",
+   "country": "Netherlands",
+   "users": 2,
+   "views": 2
+  },
+  {
    "cc": "TW",
    "country": "Taiwan",
    "users": 2,
@@ -487,12 +493,6 @@
    "country": "France",
    "users": 1,
    "views": 7
-  },
-  {
-   "cc": "NL",
-   "country": "Netherlands",
-   "users": 1,
-   "views": 1
   }
  ]
 }
