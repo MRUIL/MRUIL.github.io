@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 190,
-  "views": 258,
+  "views": 261,
   "cities": 43,
   "countries": 12
  },
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 19,
-   "views": 53
+   "views": 54
   },
   {
    "city": "",
@@ -178,6 +178,15 @@
    "views": 2
   },
   {
+   "city": "Atlanta",
+   "country": "United States",
+   "cc": "US",
+   "lat": 33.749,
+   "lon": -84.388,
+   "users": 1,
+   "views": 2
+  },
+  {
    "city": "Brisbane",
    "country": "Australia",
    "cc": "AU",
@@ -192,6 +201,15 @@
    "cc": "GB",
    "lat": 51.455,
    "lon": -2.597,
+   "users": 1,
+   "views": 2
+  },
+  {
+   "city": "Harrow",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.578,
+   "lon": -0.332,
    "users": 1,
    "views": 2
   },
@@ -223,15 +241,6 @@
    "views": 1
   },
   {
-   "city": "Atlanta",
-   "country": "United States",
-   "cc": "US",
-   "lat": 33.749,
-   "lon": -84.388,
-   "users": 1,
-   "views": 1
-  },
-  {
    "city": "Columbus",
    "country": "United States",
    "cc": "US",
@@ -246,15 +255,6 @@
    "cc": "US",
    "lat": 37.978,
    "lon": -122.031,
-   "users": 1,
-   "views": 1
-  },
-  {
-   "city": "Harrow",
-   "country": "United Kingdom",
-   "cc": "GB",
-   "lat": 51.578,
-   "lon": -0.332,
    "users": 1,
    "views": 1
   },
@@ -432,13 +432,13 @@
    "cc": "US",
    "country": "United States",
    "users": 33,
-   "views": 43
+   "views": 44
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
    "users": 25,
-   "views": 63
+   "views": 65
   },
   {
    "cc": "CN",
