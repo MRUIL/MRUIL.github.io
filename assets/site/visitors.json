@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 193,
-  "views": 264,
+  "users": 194,
+  "views": 265,
   "cities": 43,
-  "countries": 12
+  "countries": 13
  },
  "points": [
   {
@@ -239,6 +239,15 @@
    "lon": -112.074,
    "users": 1,
    "views": 2
+  },
+  {
+   "city": "",
+   "country": "Bangladesh",
+   "cc": "BD",
+   "lat": 23.71,
+   "lon": 90.407,
+   "users": 1,
+   "views": 1
   },
   {
    "city": "Ashburn",
@@ -481,6 +490,12 @@
    "country": "Australia",
    "users": 1,
    "views": 2
+  },
+  {
+   "cc": "BD",
+   "country": "Bangladesh",
+   "users": 1,
+   "views": 1
   },
   {
    "cc": "DE",
