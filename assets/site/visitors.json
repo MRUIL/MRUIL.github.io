@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 194,
-  "views": 265,
+  "users": 193,
+  "views": 261,
   "cities": 43,
   "countries": 13
  },
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 20,
-   "views": 55
+   "views": 54
   },
   {
    "city": "",
@@ -133,15 +133,6 @@
    "views": 3
   },
   {
-   "city": "Amsterdam",
-   "country": "Netherlands",
-   "cc": "NL",
-   "lat": 52.374,
-   "lon": 4.89,
-   "users": 2,
-   "views": 2
-  },
-  {
    "city": "Columbus",
    "country": "United States",
    "cc": "US",
@@ -196,15 +187,6 @@
    "views": 2
   },
   {
-   "city": "Atlanta",
-   "country": "United States",
-   "cc": "US",
-   "lat": 33.749,
-   "lon": -84.388,
-   "users": 1,
-   "views": 2
-  },
-  {
    "city": "Brisbane",
    "country": "Australia",
    "cc": "AU",
@@ -219,15 +201,6 @@
    "cc": "GB",
    "lat": 51.455,
    "lon": -2.597,
-   "users": 1,
-   "views": 2
-  },
-  {
-   "city": "Harrow",
-   "country": "United Kingdom",
-   "cc": "GB",
-   "lat": 51.578,
-   "lon": -0.332,
    "users": 1,
    "views": 2
   },
@@ -250,6 +223,15 @@
    "views": 1
   },
   {
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "cc": "NL",
+   "lat": 52.374,
+   "lon": 4.89,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Ashburn",
    "country": "United States",
    "cc": "US",
@@ -259,11 +241,29 @@
    "views": 1
   },
   {
+   "city": "Atlanta",
+   "country": "United States",
+   "cc": "US",
+   "lat": 33.749,
+   "lon": -84.388,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Concord",
    "country": "United States",
    "cc": "US",
    "lat": 37.978,
    "lon": -122.031,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Harrow",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.578,
+   "lon": -0.332,
    "users": 1,
    "views": 1
   },
@@ -441,13 +441,13 @@
    "cc": "US",
    "country": "United States",
    "users": 34,
-   "views": 45
+   "views": 44
   },
   {
    "cc": "GB",
    "country": "United Kingdom",
    "users": 26,
-   "views": 66
+   "views": 64
   },
   {
    "cc": "CN",
@@ -470,12 +470,6 @@
   {
    "cc": "JP",
    "country": "Japan",
-   "users": 2,
-   "views": 2
-  },
-  {
-   "cc": "NL",
-   "country": "Netherlands",
    "users": 2,
    "views": 2
   },
@@ -508,6 +502,12 @@
    "country": "France",
    "users": 1,
    "views": 7
+  },
+  {
+   "cc": "NL",
+   "country": "Netherlands",
+   "users": 1,
+   "views": 1
   }
  ]
 }
