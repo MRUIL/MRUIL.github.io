@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 196,
-  "views": 267,
+  "users": 198,
+  "views": 269,
   "cities": 43,
   "countries": 13
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 111,
-   "views": 111
+   "users": 112,
+   "views": 112
   },
   {
    "city": "London",
@@ -30,8 +30,8 @@
    "cc": "GB",
    "lat": 51.509,
    "lon": -0.126,
-   "users": 20,
-   "views": 55
+   "users": 21,
+   "views": 56
   },
   {
    "city": "",
@@ -434,8 +434,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 111,
-   "views": 111
+   "users": 112,
+   "views": 112
   },
   {
    "cc": "US",
@@ -446,8 +446,8 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 26,
-   "views": 66
+   "users": 27,
+   "views": 67
   },
   {
    "cc": "CN",
