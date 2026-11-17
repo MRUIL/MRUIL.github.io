@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 200,
-  "views": 271,
-  "cities": 43,
+  "users": 201,
+  "views": 272,
+  "cities": 44,
   "countries": 13
  },
  "points": [
@@ -340,6 +340,15 @@
    "views": 1
   },
   {
+   "city": "Santa Clara",
+   "country": "United States",
+   "cc": "US",
+   "lat": 37.354,
+   "lon": -121.955,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Shenyang",
    "country": "China",
    "cc": "CN",
@@ -440,8 +449,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 35,
-   "views": 46
+   "users": 36,
+   "views": 47
   },
   {
    "cc": "GB",
