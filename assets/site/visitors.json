@@ -9,10 +9,10 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 203,
-  "views": 276,
-  "cities": 44,
-  "countries": 13
+  "users": 206,
+  "views": 279,
+  "cities": 45,
+  "countries": 14
  },
  "points": [
   {
@@ -48,8 +48,8 @@
    "cc": "US",
    "lat": 41.262,
    "lon": -95.861,
-   "users": 5,
-   "views": 5
+   "users": 6,
+   "views": 6
   },
   {
    "city": "Shenzhen",
@@ -59,6 +59,15 @@
    "lon": 114.068,
    "users": 4,
    "views": 5
+  },
+  {
+   "city": "Beijing",
+   "country": "China",
+   "cc": "CN",
+   "lat": 39.907,
+   "lon": 116.397,
+   "users": 4,
+   "views": 4
   },
   {
    "city": "Guangzhou",
@@ -104,15 +113,6 @@
    "lon": 114.175,
    "users": 3,
    "views": 4
-  },
-  {
-   "city": "Beijing",
-   "country": "China",
-   "cc": "CN",
-   "lat": 39.907,
-   "lon": 116.397,
-   "users": 3,
-   "views": 3
   },
   {
    "city": "Dublin",
@@ -394,6 +394,15 @@
    "views": 1
   },
   {
+   "city": "Turin",
+   "country": "Italy",
+   "cc": "IT",
+   "lat": 45.07,
+   "lon": 7.687,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "West Lafayette",
    "country": "United States",
    "cc": "US",
@@ -449,8 +458,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 38,
-   "views": 49
+   "users": 39,
+   "views": 50
   },
   {
    "cc": "GB",
@@ -461,8 +470,8 @@
   {
    "cc": "CN",
    "country": "China",
-   "users": 15,
-   "views": 18
+   "users": 16,
+   "views": 19
   },
   {
    "cc": "HK",
@@ -517,6 +526,12 @@
    "country": "France",
    "users": 1,
    "views": 7
+  },
+  {
+   "cc": "IT",
+   "country": "Italy",
+   "users": 1,
+   "views": 1
   }
  ]
 }
