@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 201,
-  "views": 272,
+  "users": 203,
+  "views": 276,
   "cities": 44,
   "countries": 13
  },
@@ -39,8 +39,8 @@
    "cc": "US",
    "lat": 38.895,
    "lon": -77.036,
-   "users": 6,
-   "views": 6
+   "users": 7,
+   "views": 7
   },
   {
    "city": "Council Bluffs",
@@ -124,6 +124,15 @@
    "views": 3
   },
   {
+   "city": "Glenview",
+   "country": "United States",
+   "cc": "US",
+   "lat": 42.07,
+   "lon": -87.788,
+   "users": 3,
+   "views": 3
+  },
+  {
    "city": "",
    "country": "Taiwan",
    "cc": "TW",
@@ -147,15 +156,6 @@
    "cc": "US",
    "lat": 39.961,
    "lon": -82.999,
-   "users": 2,
-   "views": 2
-  },
-  {
-   "city": "Glenview",
-   "country": "United States",
-   "cc": "US",
-   "lat": 42.07,
-   "lon": -87.788,
    "users": 2,
    "views": 2
   },
@@ -187,6 +187,15 @@
    "views": 7
   },
   {
+   "city": "Brisbane",
+   "country": "Australia",
+   "cc": "AU",
+   "lat": -27.468,
+   "lon": 153.028,
+   "users": 1,
+   "views": 4
+  },
+  {
    "city": "Brookhaven",
    "country": "United States",
    "cc": "US",
@@ -210,15 +219,6 @@
    "cc": "US",
    "lat": 33.749,
    "lon": -84.388,
-   "users": 1,
-   "views": 2
-  },
-  {
-   "city": "Brisbane",
-   "country": "Australia",
-   "cc": "AU",
-   "lat": -27.468,
-   "lon": 153.028,
    "users": 1,
    "views": 2
   },
@@ -449,8 +449,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 36,
-   "views": 47
+   "users": 38,
+   "views": 49
   },
   {
    "cc": "GB",
@@ -498,7 +498,7 @@
    "cc": "AU",
    "country": "Australia",
    "users": 1,
-   "views": 2
+   "views": 4
   },
   {
    "cc": "BD",
