@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 206,
-  "views": 279,
-  "cities": 45,
+  "users": 208,
+  "views": 281,
+  "cities": 46,
   "countries": 14
  },
  "points": [
@@ -49,6 +49,15 @@
    "lat": 41.262,
    "lon": -95.861,
    "users": 6,
+   "views": 6
+  },
+  {
+   "city": "Bath",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.375,
+   "lon": -2.362,
+   "users": 4,
    "views": 6
   },
   {
@@ -95,15 +104,6 @@
    "lon": -77.46,
    "users": 3,
    "views": 8
-  },
-  {
-   "city": "Bath",
-   "country": "United Kingdom",
-   "cc": "GB",
-   "lat": 51.375,
-   "lon": -2.362,
-   "users": 3,
-   "views": 5
   },
   {
    "city": "Hong Kong",
@@ -255,6 +255,15 @@
    "cc": "BD",
    "lat": 23.71,
    "lon": 90.407,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Abiko",
+   "country": "Japan",
+   "cc": "JP",
+   "lat": 35.867,
+   "lon": 140.017,
    "users": 1,
    "views": 1
   },
@@ -464,8 +473,8 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 27,
-   "views": 67
+   "users": 28,
+   "views": 68
   },
   {
    "cc": "CN",
@@ -488,8 +497,8 @@
   {
    "cc": "JP",
    "country": "Japan",
-   "users": 2,
-   "views": 2
+   "users": 3,
+   "views": 3
   },
   {
    "cc": "NL",
