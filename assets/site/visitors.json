@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 209,
-  "views": 282,
-  "cities": 46,
+  "users": 210,
+  "views": 283,
+  "cities": 47,
   "countries": 14
  },
  "points": [
@@ -331,6 +331,15 @@
    "views": 1
   },
   {
+   "city": "Paris",
+   "country": "France",
+   "cc": "FR",
+   "lat": 48.853,
+   "lon": 2.349,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Pinner",
    "country": "United Kingdom",
    "cc": "GB",
@@ -501,6 +510,12 @@
    "views": 3
   },
   {
+   "cc": "FR",
+   "country": "France",
+   "users": 2,
+   "views": 8
+  },
+  {
    "cc": "NL",
    "country": "Netherlands",
    "users": 2,
@@ -529,12 +544,6 @@
    "country": "Germany",
    "users": 1,
    "views": 0
-  },
-  {
-   "cc": "FR",
-   "country": "France",
-   "users": 1,
-   "views": 7
   },
   {
    "cc": "IT",
