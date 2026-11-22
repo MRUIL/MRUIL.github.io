@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 212,
-  "views": 286,
+  "users": 213,
+  "views": 287,
   "cities": 49,
   "countries": 14
  },
@@ -50,6 +50,15 @@
    "lon": -95.861,
    "users": 6,
    "views": 6
+  },
+  {
+   "city": "Richmond",
+   "country": "United States",
+   "cc": "US",
+   "lat": 37.554,
+   "lon": -77.46,
+   "users": 4,
+   "views": 9
   },
   {
    "city": "Bath",
@@ -95,15 +104,6 @@
    "lon": 121.458,
    "users": 4,
    "views": 4
-  },
-  {
-   "city": "Richmond",
-   "country": "United States",
-   "cc": "US",
-   "lat": 37.554,
-   "lon": -77.46,
-   "users": 3,
-   "views": 8
   },
   {
    "city": "Hong Kong",
@@ -494,8 +494,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 39,
-   "views": 50
+   "users": 40,
+   "views": 51
   },
   {
    "cc": "GB",
