@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 213,
-  "views": 287,
+  "users": 214,
+  "views": 288,
   "cities": 49,
   "countries": 14
  },
@@ -52,6 +52,15 @@
    "views": 6
   },
   {
+   "city": "Bath",
+   "country": "United Kingdom",
+   "cc": "GB",
+   "lat": 51.375,
+   "lon": -2.362,
+   "users": 5,
+   "views": 7
+  },
+  {
    "city": "Richmond",
    "country": "United States",
    "cc": "US",
@@ -59,15 +68,6 @@
    "lon": -77.46,
    "users": 4,
    "views": 9
-  },
-  {
-   "city": "Bath",
-   "country": "United Kingdom",
-   "cc": "GB",
-   "lat": 51.375,
-   "lon": -2.362,
-   "users": 4,
-   "views": 6
   },
   {
    "city": "Shenzhen",
@@ -500,8 +500,8 @@
   {
    "cc": "GB",
    "country": "United Kingdom",
-   "users": 30,
-   "views": 70
+   "users": 31,
+   "views": 71
   },
   {
    "cc": "CN",
