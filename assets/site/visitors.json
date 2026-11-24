@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 222,
-  "views": 298,
-  "cities": 50,
+  "users": 224,
+  "views": 300,
+  "cities": 51,
   "countries": 14
  },
  "points": [
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 116,
-   "views": 116
+   "users": 117,
+   "views": 117
   },
   {
    "city": "London",
@@ -304,6 +304,15 @@
    "views": 1
   },
   {
+   "city": "Heidelberg",
+   "country": "Germany",
+   "cc": "DE",
+   "lat": 49.408,
+   "lon": 8.691,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Houston",
    "country": "United States",
    "cc": "US",
@@ -497,8 +506,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 116,
-   "views": 116
+   "users": 117,
+   "views": 117
   },
   {
    "cc": "US",
@@ -537,6 +546,12 @@
    "views": 3
   },
   {
+   "cc": "DE",
+   "country": "Germany",
+   "users": 2,
+   "views": 1
+  },
+  {
    "cc": "FR",
    "country": "France",
    "users": 2,
@@ -565,12 +580,6 @@
    "country": "Bangladesh",
    "users": 1,
    "views": 1
-  },
-  {
-   "cc": "DE",
-   "country": "Germany",
-   "users": 1,
-   "views": 0
   },
   {
    "cc": "IT",
