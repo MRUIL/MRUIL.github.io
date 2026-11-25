@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 224,
-  "views": 300,
-  "cities": 51,
+  "users": 227,
+  "views": 303,
+  "cities": 52,
   "countries": 14
  },
  "points": [
@@ -43,6 +43,15 @@
    "views": 7
   },
   {
+   "city": "Council Bluffs",
+   "country": "United States",
+   "cc": "US",
+   "lat": 41.262,
+   "lon": -95.861,
+   "users": 7,
+   "views": 7
+  },
+  {
    "city": "Shanghai",
    "country": "China",
    "cc": "CN",
@@ -50,15 +59,6 @@
    "lon": 121.458,
    "users": 7,
    "views": 7
-  },
-  {
-   "city": "Council Bluffs",
-   "country": "United States",
-   "cc": "US",
-   "lat": 41.262,
-   "lon": -95.861,
-   "users": 6,
-   "views": 6
   },
   {
    "city": "Bath",
@@ -97,6 +97,15 @@
    "views": 5
   },
   {
+   "city": "Glenview",
+   "country": "United States",
+   "cc": "US",
+   "lat": 42.07,
+   "lon": -87.788,
+   "users": 4,
+   "views": 4
+  },
+  {
    "city": "Guangzhou",
    "country": "China",
    "cc": "CN",
@@ -120,15 +129,6 @@
    "cc": "IE",
    "lat": 53.333,
    "lon": -6.249,
-   "users": 3,
-   "views": 3
-  },
-  {
-   "city": "Glenview",
-   "country": "United States",
-   "cc": "US",
-   "lat": 42.07,
-   "lon": -87.788,
    "users": 3,
    "views": 3
   },
@@ -300,6 +300,15 @@
    "cc": "US",
    "lat": 37.978,
    "lon": -122.031,
+   "users": 1,
+   "views": 1
+  },
+  {
+   "city": "Franklin",
+   "country": "United States",
+   "cc": "US",
+   "lat": 35.925,
+   "lon": -86.869,
    "users": 1,
    "views": 1
   },
@@ -512,8 +521,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 40,
-   "views": 51
+   "users": 43,
+   "views": 54
   },
   {
    "cc": "GB",
