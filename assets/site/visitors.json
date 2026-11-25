@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 227,
-  "views": 303,
+  "users": 229,
+  "views": 306,
   "cities": 52,
   "countries": 14
  },
@@ -21,8 +21,8 @@
    "cc": "SG",
    "lat": 1.29,
    "lon": 103.85,
-   "users": 117,
-   "views": 117
+   "users": 118,
+   "views": 118
   },
   {
    "city": "London",
@@ -61,6 +61,15 @@
    "views": 7
   },
   {
+   "city": "Beijing",
+   "country": "China",
+   "cc": "CN",
+   "lat": 39.907,
+   "lon": 116.397,
+   "users": 6,
+   "views": 6
+  },
+  {
    "city": "Bath",
    "country": "United Kingdom",
    "cc": "GB",
@@ -68,15 +77,6 @@
    "lon": -2.362,
    "users": 5,
    "views": 7
-  },
-  {
-   "city": "Beijing",
-   "country": "China",
-   "cc": "CN",
-   "lat": 39.907,
-   "lon": 116.397,
-   "users": 5,
-   "views": 5
   },
   {
    "city": "Richmond",
@@ -187,6 +187,15 @@
    "views": 1
   },
   {
+   "city": "Brisbane",
+   "country": "Australia",
+   "cc": "AU",
+   "lat": -27.468,
+   "lon": 153.028,
+   "users": 1,
+   "views": 7
+  },
+  {
    "city": "Strasbourg",
    "country": "France",
    "cc": "FR",
@@ -194,15 +203,6 @@
    "lon": 7.746,
    "users": 1,
    "views": 7
-  },
-  {
-   "city": "Brisbane",
-   "country": "Australia",
-   "cc": "AU",
-   "lat": -27.468,
-   "lon": 153.028,
-   "users": 1,
-   "views": 6
   },
   {
    "city": "Brookhaven",
@@ -515,8 +515,8 @@
   {
    "cc": "SG",
    "country": "Singapore",
-   "users": 117,
-   "views": 117
+   "users": 118,
+   "views": 118
   },
   {
    "cc": "US",
@@ -533,8 +533,8 @@
   {
    "cc": "CN",
    "country": "China",
-   "users": 22,
-   "views": 25
+   "users": 23,
+   "views": 26
   },
   {
    "cc": "HK",
@@ -582,7 +582,7 @@
    "cc": "AU",
    "country": "Australia",
    "users": 1,
-   "views": 6
+   "views": 7
   },
   {
    "cc": "BD",
