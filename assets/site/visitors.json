@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 229,
-  "views": 306,
+  "views": 307,
   "cities": 52,
   "countries": 14
  },
@@ -193,7 +193,7 @@
    "lat": -27.468,
    "lon": 153.028,
    "users": 1,
-   "views": 7
+   "views": 8
   },
   {
    "city": "Strasbourg",
@@ -582,7 +582,7 @@
    "cc": "AU",
    "country": "Australia",
    "users": 1,
-   "views": 7
+   "views": 8
   },
   {
    "cc": "BD",
