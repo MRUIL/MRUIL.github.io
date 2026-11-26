@@ -10,7 +10,7 @@
  },
  "totals": {
   "users": 229,
-  "views": 307,
+  "views": 308,
   "cities": 52,
   "countries": 14
  },
@@ -121,7 +121,7 @@
    "lat": 22.278,
    "lon": 114.175,
    "users": 3,
-   "views": 5
+   "views": 6
   },
   {
    "city": "Dublin",
@@ -540,7 +540,7 @@
    "cc": "HK",
    "country": "Hong Kong",
    "users": 3,
-   "views": 5
+   "views": 6
   },
   {
    "cc": "IE",
