@@ -9,8 +9,8 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 229,
-  "views": 308,
+  "users": 230,
+  "views": 311,
   "cities": 52,
   "countries": 14
  },
@@ -31,7 +31,7 @@
    "lat": 51.509,
    "lon": -0.126,
    "users": 21,
-   "views": 56
+   "views": 58
   },
   {
    "city": "",
@@ -156,6 +156,15 @@
    "cc": "US",
    "lat": 39.961,
    "lon": -82.999,
+   "users": 2,
+   "views": 2
+  },
+  {
+   "city": "Heidelberg",
+   "country": "Germany",
+   "cc": "DE",
+   "lat": 49.408,
+   "lon": 8.691,
    "users": 2,
    "views": 2
   },
@@ -309,15 +318,6 @@
    "cc": "US",
    "lat": 35.925,
    "lon": -86.869,
-   "users": 1,
-   "views": 1
-  },
-  {
-   "city": "Heidelberg",
-   "country": "Germany",
-   "cc": "DE",
-   "lat": 49.408,
-   "lon": 8.691,
    "users": 1,
    "views": 1
   },
@@ -528,13 +528,19 @@
    "cc": "GB",
    "country": "United Kingdom",
    "users": 31,
-   "views": 71
+   "views": 73
   },
   {
    "cc": "CN",
    "country": "China",
    "users": 23,
    "views": 26
+  },
+  {
+   "cc": "DE",
+   "country": "Germany",
+   "users": 3,
+   "views": 2
   },
   {
    "cc": "HK",
@@ -553,12 +559,6 @@
    "country": "Japan",
    "users": 3,
    "views": 3
-  },
-  {
-   "cc": "DE",
-   "country": "Germany",
-   "users": 2,
-   "views": 1
   },
   {
    "cc": "FR",
