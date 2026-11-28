@@ -1,7 +1,7 @@
 {
  "source": "Google Analytics 4 (city-level aggregates)",
  "since": "2026-09-19",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "home": {
   "city": "London",
   "country": "United Kingdom",
@@ -9,9 +9,9 @@
   "lon": -0.1278
  },
  "totals": {
-  "users": 230,
-  "views": 311,
-  "cities": 52,
+  "users": 240,
+  "views": 321,
+  "cities": 53,
   "countries": 14
  },
  "points": [
@@ -34,20 +34,20 @@
    "views": 58
   },
   {
-   "city": "",
-   "country": "United States",
-   "cc": "US",
-   "lat": 38.895,
-   "lon": -77.036,
-   "users": 7,
-   "views": 7
-  },
-  {
    "city": "Council Bluffs",
    "country": "United States",
    "cc": "US",
    "lat": 41.262,
    "lon": -95.861,
+   "users": 14,
+   "views": 14
+  },
+  {
+   "city": "",
+   "country": "United States",
+   "cc": "US",
+   "lat": 38.895,
+   "lon": -77.036,
    "users": 7,
    "views": 7
   },
@@ -142,11 +142,29 @@
    "views": 3
   },
   {
+   "city": "Phoenix",
+   "country": "United States",
+   "cc": "US",
+   "lat": 33.448,
+   "lon": -112.074,
+   "users": 2,
+   "views": 3
+  },
+  {
    "city": "Amsterdam",
    "country": "Netherlands",
    "cc": "NL",
    "lat": 52.374,
    "lon": 4.89,
+   "users": 2,
+   "views": 2
+  },
+  {
+   "city": "Ashburn",
+   "country": "United States",
+   "cc": "US",
+   "lat": 39.044,
+   "lon": -77.487,
    "users": 2,
    "views": 2
   },
@@ -259,15 +277,6 @@
    "views": 2
   },
   {
-   "city": "Phoenix",
-   "country": "United States",
-   "cc": "US",
-   "lat": 33.448,
-   "lon": -112.074,
-   "users": 1,
-   "views": 2
-  },
-  {
    "city": "",
    "country": "Bangladesh",
    "cc": "BD",
@@ -282,15 +291,6 @@
    "cc": "JP",
    "lat": 35.867,
    "lon": 140.017,
-   "users": 1,
-   "views": 1
-  },
-  {
-   "city": "Ashburn",
-   "country": "United States",
-   "cc": "US",
-   "lat": 39.044,
-   "lon": -77.487,
    "users": 1,
    "views": 1
   },
@@ -457,6 +457,15 @@
    "views": 1
   },
   {
+   "city": "The Dalles",
+   "country": "United States",
+   "cc": "US",
+   "lat": 45.595,
+   "lon": -121.179,
+   "users": 1,
+   "views": 1
+  },
+  {
    "city": "Turin",
    "country": "Italy",
    "cc": "IT",
@@ -521,8 +530,8 @@
   {
    "cc": "US",
    "country": "United States",
-   "users": 43,
-   "views": 54
+   "users": 53,
+   "views": 64
   },
   {
    "cc": "GB",
